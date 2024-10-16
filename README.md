@@ -17,10 +17,7 @@ By analyzing transaction data, customer profiles, and geographical information, 
 By leveraging data-driven insights, retailers can make informed decisions that drive growth and improve customer satisfaction. Join us on this journey to transform raw data into meaningful strategies for success in the retail sector!
 
 ### Team Members
-- [**Charles Colaco**](https://github.com/CharlesColaco)
-- **Utkarsh Vyas**
-- **Mark Conrad Maramag**
-- **Srujana Gunde**
+[**`Charles Colaco`**](https://github.com/CharlesColaco),[**`Utkarsh Vyas`**](https://github.com/Utkarshvyas-DataBricks),[**`Mark Conrad Maramag`**](https://github.com/markmaramag),[**`Srujana Gunde`**](https://github.com/s-gunde)
 
 ## Table of Contents
 
