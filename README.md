@@ -15,13 +15,14 @@ By analyzing transaction data, customer profiles, and geographical information, 
 - **Product Recommendation System**: Develop a product recommendation system using K-Nearest Neighbors (K-NN) to enhance cross-selling and upselling opportunities.
 - **Sales Forecasting**: Build time series models to predict future sales, helping retailers prepare for demand fluctuations.
 - **Customer Lifetime Value (CLV) Prediction**: Predict the total value a customer will generate over their lifetime to identify high-value customers and tailor retention strategies.
-- **Behavioral Insights**: Analyze how factors such as age, gender, and geographical location influence product preferences, transaction size, and purchase frequency.  
+- **Behavioral Insights**: Analyze how factors such as age, gender, and geographical location influence product preferences, transaction size, and purchase frequency.
 
 By leveraging these insights, retailers can make data-driven decisions to improve customer acquisition, retention, and revenue generation, resulting in a more personalized and efficient retail experience.
 Join us on this journey to transform raw data into meaningful strategies for success in the retail sector!
 
 ### Team Members
-[**`Charles Colaco`**](https://github.com/CharlesColaco),[**`Utkarsh Vyas`**](https://github.com/Utkarshvyas-DataBricks),[**`Mark Conrad Maramag`**](https://github.com/markmaramag),[**`Srujana Gunde`**](https://github.com/s-gunde)
+
+[**`Charles Colaco`**](https://github.com/CharlesColaco),[**`Mark Conrad Maramag`**](https://github.com/markmaramag),[**`Srujana Gunde`**](https://github.com/s-gunde)
 
 ## Table of Contents
 
@@ -46,13 +47,14 @@ The dataset contains the following columns:
 - **Geographical Information**: (To be added)
 
 ### Potential Data Enhancements
+
 Additional features and modifications to the dataset will be implemented to address specific business questions, including:
 
 - **Customer Demographics**: Age, gender, location (city, province, region) to help segment and understand customer preferences.
 - **Product Preferences**: Linking product categories to demographic data to uncover preferences for specific groups.
 - **Transaction History**: Incorporating past transactions to predict customer behavior, such as whether a customer will make repeat purchases.
 - **Price Sensitivity**: Adding a column to analyze how price changes impact customer purchasing behavior within product categories.
-  
+
 ## Technologies Used
 
 - **Python**: Programming language for data analysis and modeling.
@@ -106,15 +108,14 @@ Additional features and modifications to the dataset will be implemented to addr
 
 ## Data Preparation
 
-- **Data Cleaning and Preprocessing**: 
+- **Data Cleaning and Preprocessing**:
   - Handle missing values, remove duplicates, and correct inconsistencies in the dataset.
   - Normalize data for consistent analysis, particularly in demographic variables (e.g., age, gender).
-  
-- **Feature Engineering**: 
+- **Feature Engineering**:
   - Extract date-based features (e.g., month, weekday) to understand seasonal patterns.
   - Calculate Customer Lifetime Value (CLV) by aggregating customer transaction data over time.
-  
-- **Handling Missing Values and Outliers**: 
+- **Handling Missing Values and Outliers**:
+
   - Missing values will be handled using imputation or removal depending on the nature of the data.
   - Outliers will be detected and addressed to avoid skewed analysis and predictions.
 
@@ -122,8 +123,6 @@ Additional features and modifications to the dataset will be implemented to addr
   - Normalize numerical variables for consistent scaling across features.
   - Encode categorical variables (e.g., gender, product category) using techniques like one-hot encoding or label encoding.
 
-
 ## Conclusion
 
 This project aims to transform raw retail sales and customer demographic data into actionable business insights. By employing machine learning techniques, we will not only uncover trends in customer behavior but also build predictive models that can forecast sales, recommend products, and predict customer lifetime value. The insights generated will assist retailers in optimizing their marketing, inventory, and sales strategies, ultimately improving customer satisfaction and driving growth.
-
