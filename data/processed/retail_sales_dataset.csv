@@ -1,0 +1,1001 @@
+Transaction ID,Date,Product Category,Quantity,Price per Unit,Total Amount,Customer ID,Gender,Age,City,Province,Country,Season,is_discount,Customer Type,Total Spend,Product ID
+1,2023-01-01,Beauty,3,500,1500,CUST045,Female,55,Montreal,Quebec,Canada,Winter,True,New,10525,5
+2,2023-01-01,Clothing,3,300,900,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Winter,True,New,7650,9
+3,2023-01-01,Clothing,4,300,1200,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,True,New,11785,9
+4,2023-01-02,Electronics,3,30,90,CUST007,Male,46,Saint John,New Brunswick,Canada,Winter,True,New,4910,12
+5,2023-01-02,Beauty,1,25,25,CUST044,Female,22,Gatineau,Quebec,Canada,Winter,True,New,8150,1
+6,2023-01-02,Clothing,3,50,150,CUST031,Male,44,Burnaby,British Columbia,Canada,Winter,False,New,6385,8
+7,2023-01-02,Clothing,3,500,1500,CUST020,Male,22,Laval,Quebec,Canada,Winter,True,New,7680,10
+8,2023-01-03,Beauty,2,300,600,CUST047,Female,40,Toronto,Ontario,Canada,Winter,True,New,14500,4
+9,2023-01-04,Beauty,2,500,1000,CUST021,Female,50,Burnaby,British Columbia,Canada,Winter,True,New,8475,5
+10,2023-01-04,Clothing,3,50,150,CUST045,Female,55,Montreal,Quebec,Canada,Winter,False,Returning,10525,8
+11,2023-01-04,Beauty,3,30,90,CUST001,Male,34,Kitchener,Ontario,Canada,Winter,False,New,14430,2
+12,2023-01-05,Beauty,2,25,50,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,False,New,10485,1
+13,2023-01-05,Electronics,1,50,50,CUST045,Female,55,Montreal,Quebec,Canada,Winter,False,Returning,10525,13
+14,2023-01-05,Electronics,2,500,1000,CUST001,Male,34,Kitchener,Ontario,Canada,Winter,True,Returning,14430,15
+15,2023-01-06,Electronics,4,30,120,CUST007,Male,46,Saint John,New Brunswick,Canada,Winter,False,Returning,4910,12
+16,2023-01-06,Clothing,1,500,500,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Winter,False,New,4310,10
+17,2023-01-07,Electronics,3,25,75,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Winter,False,New,16805,11
+18,2023-01-07,Clothing,3,25,75,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,False,Returning,11785,6
+19,2023-01-08,Clothing,2,300,600,CUST009,Male,63,Burnaby,British Columbia,Canada,Winter,False,New,5060,9
+20,2023-01-08,Electronics,1,25,25,CUST031,Male,44,Burnaby,British Columbia,Canada,Winter,True,Returning,6385,11
+21,2023-01-09,Clothing,4,50,200,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,False,Returning,10485,8
+22,2023-01-10,Clothing,1,30,30,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Winter,False,New,6460,7
+23,2023-01-10,Electronics,4,50,200,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,True,New,6045,13
+24,2023-01-11,Clothing,3,30,90,CUST027,Female,38,Kitchener,Ontario,Canada,Winter,False,New,4250,7
+25,2023-01-11,Beauty,4,25,100,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,False,Returning,11785,1
+26,2023-01-11,Beauty,3,30,90,CUST034,Female,51,Regina,Saskatchewan,Canada,Winter,False,New,6665,2
+27,2023-01-13,Clothing,4,300,1200,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Winter,False,Returning,16805,9
+28,2023-01-13,Electronics,4,25,100,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Winter,False,New,9680,11
+29,2023-01-13,Electronics,1,30,30,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,New,16090,12
+30,2023-01-13,Electronics,2,300,600,CUST021,Female,50,Burnaby,British Columbia,Canada,Winter,True,Returning,8475,14
+31,2023-01-14,Beauty,3,300,900,CUST001,Male,34,Kitchener,Ontario,Canada,Winter,False,Returning,14430,4
+32,2023-01-14,Beauty,3,25,75,CUST013,Male,22,Montreal,Quebec,Canada,Winter,False,New,5740,1
+33,2023-01-14,Beauty,3,25,75,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Winter,True,New,21825,1
+34,2023-01-14,Beauty,1,500,500,CUST044,Female,22,Gatineau,Quebec,Canada,Winter,False,Returning,8150,5
+35,2023-01-15,Clothing,1,500,500,CUST010,Female,52,Sydney,Nova Scotia,Canada,Winter,False,New,7205,10
+36,2023-01-15,Electronics,4,25,100,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,True,Returning,10485,11
+37,2023-01-15,Beauty,2,30,60,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Winter,False,Returning,16805,2
+38,2023-01-16,Beauty,4,500,2000,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Winter,True,New,7675,5
+39,2023-01-16,Electronics,4,500,2000,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,True,New,20180,15
+40,2023-01-17,Beauty,1,500,500,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,False,Returning,20180,5
+41,2023-01-17,Clothing,2,500,1000,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,Returning,16090,10
+42,2023-01-17,Clothing,1,25,25,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Winter,True,New,10365,6
+43,2023-01-17,Clothing,4,30,120,CUST034,Female,51,Regina,Saskatchewan,Canada,Winter,False,Returning,6665,7
+44,2023-01-19,Clothing,1,30,30,CUST029,Female,42,Brandon,Manitoba,Canada,Winter,False,New,9630,7
+45,2023-01-20,Clothing,3,25,75,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Winter,True,Returning,7675,6
+46,2023-01-20,Beauty,1,50,50,CUST009,Male,63,Burnaby,British Columbia,Canada,Winter,True,Returning,5060,3
+47,2023-01-21,Beauty,2,30,60,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,True,Returning,10485,2
+48,2023-01-21,Electronics,4,500,2000,CUST034,Female,51,Regina,Saskatchewan,Canada,Winter,True,Returning,6665,15
+49,2023-01-21,Beauty,1,30,30,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,True,Returning,6045,2
+50,2023-01-22,Electronics,1,25,25,CUST027,Female,38,Kitchener,Ontario,Canada,Winter,False,Returning,4250,11
+51,2023-01-22,Electronics,1,300,300,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,Returning,16090,14
+52,2023-01-23,Electronics,2,500,1000,CUST030,Female,39,Lethbridge,Alberta,Canada,Winter,True,New,12185,15
+53,2023-01-23,Clothing,4,500,2000,CUST027,Female,38,Kitchener,Ontario,Canada,Winter,False,Returning,4250,10
+54,2023-01-23,Electronics,4,30,120,CUST023,Female,35,Victoria,British Columbia,Canada,Winter,True,New,11590,12
+55,2023-01-24,Clothing,4,25,100,CUST042,Male,22,Surrey,British Columbia,Canada,Winter,True,New,4220,6
+56,2023-01-24,Beauty,4,500,2000,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,False,Returning,20180,5
+57,2023-01-24,Beauty,3,50,150,CUST031,Male,44,Burnaby,British Columbia,Canada,Winter,False,Returning,6385,3
+58,2023-01-25,Electronics,1,50,50,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Winter,False,New,9205,13
+59,2023-01-26,Clothing,4,30,120,CUST017,Female,27,Laval,Quebec,Canada,Winter,True,New,9755,7
+60,2023-01-26,Beauty,3,500,1500,CUST050,Female,27,Winnipeg,Manitoba,Canada,Winter,True,New,10320,5
+61,2023-01-26,Beauty,1,50,50,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,False,Returning,6045,3
+62,2023-01-26,Beauty,3,300,900,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,True,Returning,11785,4
+63,2023-01-27,Beauty,3,25,75,CUST045,Female,55,Montreal,Quebec,Canada,Winter,False,Returning,10525,1
+64,2023-01-27,Clothing,4,25,100,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Winter,False,New,5225,6
+65,2023-01-27,Clothing,2,30,60,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,True,Returning,6045,7
+66,2023-01-28,Clothing,3,300,900,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,False,Returning,20180,9
+67,2023-01-28,Electronics,1,30,30,CUST012,Male,35,Regina,Saskatchewan,Canada,Winter,False,New,6685,12
+68,2023-01-28,Electronics,3,30,90,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Winter,False,New,5375,12
+69,2023-01-29,Clothing,2,300,600,CUST039,Male,23,Kitchener,Ontario,Canada,Winter,False,New,7785,9
+70,2023-01-30,Electronics,3,30,90,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Winter,False,New,11275,12
+71,2023-01-30,Beauty,1,50,50,CUST024,Female,49,Quebec City,Quebec,Canada,Winter,True,New,5180,3
+72,2023-01-30,Electronics,1,500,500,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,False,Returning,11785,15
+73,2023-01-30,Electronics,4,25,100,CUST037,Female,18,Moncton,New Brunswick,Canada,Winter,True,New,13210,11
+74,2023-01-31,Electronics,2,500,1000,CUST034,Female,51,Regina,Saskatchewan,Canada,Winter,True,Returning,6665,15
+75,2023-01-31,Electronics,4,50,200,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Winter,True,Returning,9680,13
+76,2023-01-31,Clothing,3,300,900,CUST020,Male,22,Laval,Quebec,Canada,Winter,True,Returning,7680,9
+77,2023-02-01,Electronics,4,300,1200,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,False,Returning,11785,14
+78,2023-02-01,Clothing,3,500,1500,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Winter,True,Returning,9680,10
+79,2023-02-01,Clothing,4,500,2000,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Winter,False,Returning,10365,10
+80,2023-02-02,Electronics,4,300,1200,CUST020,Male,22,Laval,Quebec,Canada,Winter,True,Returning,7680,14
+81,2023-02-02,Electronics,3,50,150,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Winter,True,Returning,7675,13
+82,2023-02-02,Clothing,1,25,25,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,9205,6
+83,2023-02-03,Beauty,1,30,30,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,True,Returning,10485,2
+84,2023-02-03,Clothing,4,300,1200,CUST017,Female,27,Laval,Quebec,Canada,Winter,True,Returning,9755,9
+85,2023-02-04,Beauty,4,30,120,CUST039,Male,23,Kitchener,Ontario,Canada,Winter,True,Returning,7785,2
+86,2023-02-04,Beauty,2,500,1000,CUST030,Female,39,Lethbridge,Alberta,Canada,Winter,True,Returning,12185,5
+87,2023-02-05,Electronics,4,30,120,CUST029,Female,42,Brandon,Manitoba,Canada,Winter,True,Returning,9630,12
+88,2023-02-05,Electronics,4,300,1200,CUST044,Female,22,Gatineau,Quebec,Canada,Winter,False,Returning,8150,14
+89,2023-02-05,Beauty,4,50,200,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Winter,False,New,6090,3
+90,2023-02-05,Clothing,1,25,25,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,False,Returning,11785,6
+91,2023-02-05,Clothing,3,50,150,CUST030,Female,39,Lethbridge,Alberta,Canada,Winter,True,Returning,12185,8
+92,2023-02-05,Electronics,2,25,50,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,11275,11
+93,2023-02-05,Beauty,1,30,30,CUST005,Male,30,Hamilton,Ontario,Canada,Winter,False,New,8665,2
+94,2023-02-05,Clothing,1,30,30,CUST040,Male,45,Quebec City,Quebec,Canada,Winter,False,New,6800,7
+95,2023-02-06,Beauty,1,300,300,CUST047,Female,40,Toronto,Ontario,Canada,Winter,False,Returning,14500,4
+96,2023-02-06,Electronics,3,50,150,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Winter,True,Returning,5225,13
+97,2023-02-06,Beauty,1,25,25,CUST008,Male,30,Halifax,Nova Scotia,Canada,Winter,True,New,8190,1
+98,2023-02-06,Clothing,3,50,150,CUST008,Male,30,Halifax,Nova Scotia,Canada,Winter,False,Returning,8190,8
+99,2023-02-07,Beauty,3,500,1500,CUST022,Male,18,Gatineau,Quebec,Canada,Winter,True,Returning,11785,5
+100,2023-02-07,Clothing,2,50,100,CUST040,Male,45,Quebec City,Quebec,Canada,Winter,False,Returning,6800,8
+101,2023-02-07,Beauty,4,50,200,CUST020,Male,22,Laval,Quebec,Canada,Winter,True,Returning,7680,3
+102,2023-02-07,Electronics,1,300,300,CUST045,Female,55,Montreal,Quebec,Canada,Winter,True,Returning,10525,14
+103,2023-02-08,Clothing,4,50,200,CUST027,Female,38,Kitchener,Ontario,Canada,Winter,False,Returning,4250,8
+104,2023-02-08,Electronics,3,25,75,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Winter,True,Returning,16805,11
+105,2023-02-08,Electronics,4,25,100,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,True,Returning,6045,11
+106,2023-02-08,Electronics,2,25,50,CUST040,Male,45,Quebec City,Quebec,Canada,Winter,True,Returning,6800,11
+107,2023-02-09,Clothing,2,300,600,CUST029,Female,42,Brandon,Manitoba,Canada,Winter,False,Returning,9630,9
+108,2023-02-10,Electronics,1,300,300,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,21825,14
+109,2023-02-10,Beauty,2,50,100,CUST008,Male,30,Halifax,Nova Scotia,Canada,Winter,True,Returning,8190,3
+110,2023-02-10,Electronics,3,500,1500,CUST015,Female,42,Thompson,Manitoba,Canada,Winter,False,New,8790,15
+111,2023-02-11,Clothing,1,25,25,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Winter,True,Returning,9680,6
+112,2023-02-11,Electronics,3,30,90,CUST008,Male,30,Halifax,Nova Scotia,Canada,Winter,True,Returning,8190,12
+113,2023-02-11,Clothing,2,500,1000,CUST050,Female,27,Winnipeg,Manitoba,Canada,Winter,True,Returning,10320,10
+114,2023-02-11,Beauty,4,25,100,CUST024,Female,49,Quebec City,Quebec,Canada,Winter,True,Returning,5180,1
+115,2023-02-11,Electronics,2,500,1000,CUST037,Female,18,Moncton,New Brunswick,Canada,Winter,True,Returning,13210,15
+116,2023-02-12,Clothing,1,500,500,CUST031,Male,44,Burnaby,British Columbia,Canada,Winter,True,Returning,6385,10
+117,2023-02-13,Beauty,1,25,25,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Winter,False,Returning,6090,1
+118,2023-02-13,Beauty,4,500,2000,CUST045,Female,55,Montreal,Quebec,Canada,Winter,False,Returning,10525,5
+119,2023-02-13,Beauty,3,500,1500,CUST036,Male,52,Victoria,British Columbia,Canada,Winter,False,New,7135,5
+120,2023-02-13,Clothing,3,25,75,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Winter,True,Returning,7675,6
+121,2023-02-14,Clothing,2,50,100,CUST009,Male,63,Burnaby,British Columbia,Canada,Winter,True,Returning,5060,8
+122,2023-02-14,Electronics,1,300,300,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,False,Returning,10485,14
+123,2023-02-16,Electronics,3,300,900,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Winter,False,Returning,5225,14
+124,2023-02-17,Beauty,4,300,1200,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Winter,True,Returning,4310,4
+125,2023-02-17,Clothing,3,30,90,CUST044,Female,22,Gatineau,Quebec,Canada,Winter,False,Returning,8150,7
+126,2023-02-17,Clothing,3,500,1500,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,9205,10
+127,2023-02-17,Electronics,4,500,2000,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,11275,15
+128,2023-02-17,Beauty,4,50,200,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,7650,3
+129,2023-02-17,Clothing,3,300,900,CUST042,Male,22,Surrey,British Columbia,Canada,Winter,True,Returning,4220,9
+130,2023-02-18,Clothing,2,500,1000,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,7650,10
+131,2023-02-19,Clothing,1,25,25,CUST032,Male,30,Moncton,New Brunswick,Canada,Winter,True,New,11190,6
+132,2023-02-19,Beauty,4,500,2000,CUST037,Female,18,Moncton,New Brunswick,Canada,Winter,False,Returning,13210,5
+133,2023-02-20,Electronics,2,500,1000,CUST037,Female,18,Moncton,New Brunswick,Canada,Winter,True,Returning,13210,15
+134,2023-02-20,Electronics,1,30,30,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,False,Returning,20180,12
+135,2023-02-20,Clothing,4,25,100,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,True,Returning,10485,6
+136,2023-02-21,Clothing,2,30,60,CUST030,Female,39,Lethbridge,Alberta,Canada,Winter,False,Returning,12185,7
+137,2023-02-21,Beauty,1,25,25,CUST005,Male,30,Hamilton,Ontario,Canada,Winter,False,Returning,8665,1
+138,2023-02-21,Clothing,1,300,300,CUST044,Female,22,Gatineau,Quebec,Canada,Winter,False,Returning,8150,9
+139,2023-02-22,Beauty,3,25,75,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,5375,1
+140,2023-02-22,Electronics,2,25,50,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Winter,True,New,11980,11
+141,2023-02-22,Electronics,4,25,100,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,7650,11
+142,2023-02-22,Clothing,2,25,50,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,False,Returning,10485,6
+143,2023-02-22,Beauty,1,25,25,CUST034,Female,51,Regina,Saskatchewan,Canada,Winter,False,Returning,6665,1
+144,2023-02-23,Beauty,1,30,30,CUST036,Male,52,Victoria,British Columbia,Canada,Winter,True,Returning,7135,2
+145,2023-02-24,Clothing,4,50,200,CUST023,Female,35,Victoria,British Columbia,Canada,Winter,False,Returning,11590,8
+146,2023-02-24,Beauty,3,500,1500,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,7650,5
+147,2023-02-24,Clothing,4,300,1200,CUST001,Male,34,Kitchener,Ontario,Canada,Winter,False,Returning,14430,9
+148,2023-02-24,Clothing,1,300,300,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,False,Returning,6045,9
+149,2023-02-25,Beauty,1,50,50,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,9205,3
+150,2023-02-25,Beauty,3,500,1500,CUST007,Male,46,Saint John,New Brunswick,Canada,Winter,False,Returning,4910,5
+151,2023-02-25,Electronics,3,300,900,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,5375,14
+152,2023-02-25,Electronics,2,50,100,CUST042,Male,22,Surrey,British Columbia,Canada,Winter,False,Returning,4220,13
+153,2023-02-26,Clothing,2,25,50,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,False,Returning,6045,6
+154,2023-02-27,Clothing,1,25,25,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Winter,True,Returning,10365,6
+155,2023-02-27,Electronics,2,300,600,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Winter,True,Returning,5225,14
+156,2023-02-27,Beauty,4,50,200,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,True,Returning,20180,3
+157,2023-02-27,Clothing,2,500,1000,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,Returning,16090,10
+158,2023-02-28,Electronics,4,500,2000,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,True,Returning,20180,15
+159,2023-02-28,Clothing,2,25,50,CUST024,Female,49,Quebec City,Quebec,Canada,Winter,False,Returning,5180,6
+160,2023-02-28,Clothing,1,30,30,CUST042,Male,22,Surrey,British Columbia,Canada,Winter,False,Returning,4220,7
+161,2023-02-28,Beauty,4,25,100,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,5375,1
+162,2023-03-01,Beauty,2,30,60,CUST037,Female,18,Moncton,New Brunswick,Canada,Winter,False,Returning,13210,2
+163,2023-03-01,Beauty,4,25,100,CUST036,Male,52,Victoria,British Columbia,Canada,Winter,True,Returning,7135,1
+164,2023-03-01,Electronics,1,300,300,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,Returning,16090,14
+165,2023-03-02,Beauty,1,300,300,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Winter,True,Returning,5225,4
+166,2023-03-03,Electronics,4,25,100,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,False,Returning,10485,11
+167,2023-03-03,Clothing,4,30,120,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,7650,7
+168,2023-03-03,Beauty,1,500,500,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Winter,False,Returning,10365,5
+169,2023-03-03,Electronics,2,25,50,CUST032,Male,30,Moncton,New Brunswick,Canada,Winter,True,Returning,11190,11
+170,2023-03-03,Beauty,4,50,200,CUST032,Male,30,Moncton,New Brunswick,Canada,Winter,True,Returning,11190,3
+171,2023-03-04,Beauty,2,500,1000,CUST012,Male,35,Regina,Saskatchewan,Canada,Winter,True,Returning,6685,5
+172,2023-03-05,Beauty,4,30,120,CUST009,Male,63,Burnaby,British Columbia,Canada,Winter,True,Returning,5060,2
+173,2023-03-05,Beauty,1,300,300,CUST039,Male,23,Kitchener,Ontario,Canada,Winter,True,Returning,7785,4
+174,2023-03-06,Electronics,4,50,200,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Winter,True,Returning,5225,13
+175,2023-03-06,Beauty,3,50,150,CUST036,Male,52,Victoria,British Columbia,Canada,Winter,False,Returning,7135,3
+176,2023-03-06,Clothing,4,50,200,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,Returning,16090,8
+177,2023-03-06,Clothing,3,25,75,CUST024,Female,49,Quebec City,Quebec,Canada,Winter,True,Returning,5180,6
+178,2023-03-07,Beauty,3,300,900,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,9205,4
+179,2023-03-07,Clothing,4,500,2000,CUST050,Female,27,Winnipeg,Manitoba,Canada,Winter,True,Returning,10320,10
+180,2023-03-07,Electronics,2,25,50,CUST045,Female,55,Montreal,Quebec,Canada,Winter,False,Returning,10525,11
+181,2023-03-07,Clothing,3,30,90,CUST050,Female,27,Winnipeg,Manitoba,Canada,Winter,False,Returning,10320,7
+182,2023-03-08,Clothing,1,25,25,CUST012,Male,35,Regina,Saskatchewan,Canada,Winter,True,Returning,6685,6
+183,2023-03-09,Clothing,4,50,200,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,False,Returning,6045,8
+184,2023-03-09,Clothing,3,300,900,CUST017,Female,27,Laval,Quebec,Canada,Winter,False,Returning,9755,9
+185,2023-03-09,Clothing,4,25,100,CUST001,Male,34,Kitchener,Ontario,Canada,Winter,True,Returning,14430,6
+186,2023-03-10,Clothing,3,50,150,CUST032,Male,30,Moncton,New Brunswick,Canada,Winter,True,Returning,11190,8
+187,2023-03-10,Beauty,1,25,25,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,True,Returning,20180,1
+188,2023-03-11,Clothing,1,500,500,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,True,Returning,10485,10
+189,2023-03-12,Clothing,1,500,500,CUST034,Female,51,Regina,Saskatchewan,Canada,Winter,True,Returning,6665,10
+190,2023-03-12,Clothing,1,25,25,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,11275,6
+191,2023-03-13,Clothing,3,50,150,CUST044,Female,22,Gatineau,Quebec,Canada,Winter,False,Returning,8150,8
+192,2023-03-13,Clothing,2,25,50,CUST039,Male,23,Kitchener,Ontario,Canada,Winter,False,Returning,7785,6
+193,2023-03-13,Clothing,4,25,100,CUST050,Female,27,Winnipeg,Manitoba,Canada,Winter,True,Returning,10320,6
+194,2023-03-15,Electronics,2,500,1000,CUST019,Female,62,Toronto,Ontario,Canada,Winter,False,New,7810,15
+195,2023-03-17,Clothing,4,25,100,CUST046,Female,20,Calgary,Alberta,Canada,Winter,True,New,4380,6
+196,2023-03-17,Clothing,3,300,900,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Winter,True,Returning,16805,9
+197,2023-03-17,Clothing,3,25,75,CUST019,Female,62,Toronto,Ontario,Canada,Winter,False,Returning,7810,6
+198,2023-03-18,Clothing,4,30,120,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Winter,True,Returning,4310,7
+199,2023-03-18,Clothing,3,500,1500,CUST001,Male,34,Kitchener,Ontario,Canada,Winter,True,Returning,14430,10
+200,2023-03-19,Electronics,1,30,30,CUST010,Female,52,Sydney,Nova Scotia,Canada,Winter,False,Returning,7205,12
+201,2023-03-19,Clothing,2,25,50,CUST047,Female,40,Toronto,Ontario,Canada,Winter,True,Returning,14500,6
+202,2023-03-20,Beauty,3,300,900,CUST034,Female,51,Regina,Saskatchewan,Canada,Winter,False,Returning,6665,4
+203,2023-03-20,Clothing,3,50,150,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Winter,True,Returning,6090,8
+204,2023-03-20,Electronics,4,25,100,CUST012,Male,35,Regina,Saskatchewan,Canada,Winter,True,Returning,6685,11
+205,2023-03-20,Clothing,4,300,1200,CUST005,Male,30,Hamilton,Ontario,Canada,Winter,False,Returning,8665,9
+206,2023-03-20,Electronics,2,300,600,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,True,Returning,20180,14
+207,2023-03-21,Beauty,4,50,200,CUST009,Male,63,Burnaby,British Columbia,Canada,Spring,True,Returning,5060,3
+208,2023-03-21,Clothing,4,300,1200,CUST045,Female,55,Montreal,Quebec,Canada,Spring,True,Returning,10525,9
+209,2023-03-21,Clothing,2,300,600,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,False,Returning,8665,9
+210,2023-03-21,Beauty,3,500,1500,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,True,Returning,11590,5
+211,2023-03-22,Clothing,1,50,50,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,False,Returning,6090,8
+212,2023-03-22,Beauty,2,50,100,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Spring,False,Returning,4310,3
+213,2023-03-22,Clothing,3,50,150,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,True,Returning,8665,8
+214,2023-03-22,Beauty,2,500,1000,CUST050,Female,27,Winnipeg,Manitoba,Canada,Spring,False,Returning,10320,5
+215,2023-03-22,Beauty,3,30,90,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,False,Returning,8665,2
+216,2023-03-23,Clothing,4,50,200,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,5375,8
+217,2023-03-23,Beauty,3,500,1500,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,21825,5
+218,2023-03-23,Electronics,2,50,100,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,False,Returning,8665,13
+219,2023-03-23,Clothing,3,50,150,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Spring,True,Returning,16805,8
+220,2023-03-24,Electronics,3,50,150,CUST033,Female,50,Sydney,Nova Scotia,Canada,Spring,False,Returning,20180,13
+221,2023-03-24,Beauty,2,50,100,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,True,Returning,13210,3
+222,2023-03-25,Beauty,2,500,1000,CUST029,Female,42,Brandon,Manitoba,Canada,Spring,False,Returning,9630,5
+223,2023-03-25,Electronics,2,50,100,CUST039,Male,23,Kitchener,Ontario,Canada,Spring,False,Returning,7785,13
+224,2023-03-25,Clothing,1,25,25,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,True,Returning,8665,6
+225,2023-03-25,Electronics,1,500,500,CUST044,Female,22,Gatineau,Quebec,Canada,Spring,True,Returning,8150,15
+226,2023-03-26,Clothing,4,30,120,CUST024,Female,49,Quebec City,Quebec,Canada,Spring,True,Returning,5180,7
+227,2023-03-26,Electronics,2,50,100,CUST046,Female,20,Calgary,Alberta,Canada,Spring,False,Returning,4380,13
+228,2023-03-26,Clothing,4,300,1200,CUST029,Female,42,Brandon,Manitoba,Canada,Spring,True,Returning,9630,9
+229,2023-03-27,Beauty,1,500,500,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,True,Returning,7205,5
+230,2023-03-27,Clothing,3,30,90,CUST039,Male,23,Kitchener,Ontario,Canada,Spring,False,Returning,7785,7
+231,2023-03-28,Clothing,2,50,100,CUST039,Male,23,Kitchener,Ontario,Canada,Spring,False,Returning,7785,8
+232,2023-03-29,Clothing,1,500,500,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,False,Returning,13210,10
+233,2023-03-30,Clothing,4,50,200,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,False,Returning,12185,8
+234,2023-03-31,Clothing,4,300,1200,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,False,Returning,6090,9
+235,2023-04-01,Beauty,4,500,2000,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Spring,False,Returning,6460,5
+236,2023-04-01,Beauty,4,300,1200,CUST015,Female,42,Thompson,Manitoba,Canada,Spring,True,Returning,8790,4
+237,2023-04-01,Electronics,4,300,1200,CUST036,Male,52,Victoria,British Columbia,Canada,Spring,True,Returning,7135,14
+238,2023-04-02,Electronics,3,50,150,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,7650,13
+239,2023-04-02,Electronics,3,50,150,CUST036,Male,52,Victoria,British Columbia,Canada,Spring,True,Returning,7135,13
+240,2023-04-02,Clothing,4,500,2000,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,True,Returning,16090,10
+241,2023-04-02,Beauty,1,300,300,CUST009,Male,63,Burnaby,British Columbia,Canada,Spring,False,Returning,5060,4
+242,2023-04-04,Clothing,3,500,1500,CUST047,Female,40,Toronto,Ontario,Canada,Spring,False,Returning,14500,10
+243,2023-04-04,Beauty,2,30,60,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Spring,False,Returning,6460,2
+244,2023-04-04,Clothing,2,30,60,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Spring,False,Returning,10365,7
+245,2023-04-05,Electronics,3,300,900,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,5375,14
+246,2023-04-05,Clothing,4,300,1200,CUST026,Female,28,Saint John,New Brunswick,Canada,Spring,False,Returning,10485,9
+247,2023-04-06,Electronics,4,300,1200,CUST044,Female,22,Gatineau,Quebec,Canada,Spring,True,Returning,8150,14
+248,2023-04-08,Clothing,1,30,30,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,False,Returning,16090,7
+249,2023-04-08,Clothing,2,500,1000,CUST040,Male,45,Quebec City,Quebec,Canada,Spring,True,Returning,6800,10
+250,2023-04-08,Clothing,4,25,100,CUST021,Female,50,Burnaby,British Columbia,Canada,Spring,True,Returning,8475,6
+251,2023-04-08,Clothing,4,30,120,CUST015,Female,42,Thompson,Manitoba,Canada,Spring,False,Returning,8790,7
+252,2023-04-08,Electronics,4,300,1200,CUST045,Female,55,Montreal,Quebec,Canada,Spring,True,Returning,10525,14
+253,2023-04-09,Beauty,4,50,200,CUST022,Male,18,Gatineau,Quebec,Canada,Spring,True,Returning,11785,3
+254,2023-04-09,Electronics,3,300,900,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,False,Returning,13210,14
+255,2023-04-09,Clothing,2,30,60,CUST027,Female,38,Kitchener,Ontario,Canada,Spring,True,Returning,4250,7
+256,2023-04-09,Electronics,1,50,50,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,False,Returning,13210,13
+257,2023-04-09,Clothing,2,500,1000,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Spring,False,Returning,10365,10
+258,2023-04-09,Electronics,1,25,25,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,False,Returning,11590,11
+259,2023-04-10,Clothing,1,30,30,CUST016,Male,19,Kitchener,Ontario,Canada,Spring,True,Returning,6045,7
+260,2023-04-10,Electronics,1,30,30,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Spring,True,Returning,5225,12
+261,2023-04-11,Clothing,2,25,50,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,True,Returning,8665,6
+262,2023-04-12,Clothing,2,25,50,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,False,Returning,11590,6
+263,2023-04-12,Beauty,2,500,1000,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,21825,5
+264,2023-04-12,Electronics,4,30,120,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,False,Returning,13210,12
+265,2023-04-12,Clothing,4,30,120,CUST022,Male,18,Gatineau,Quebec,Canada,Spring,True,Returning,11785,7
+266,2023-04-12,Beauty,1,300,300,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,9205,4
+267,2023-04-13,Electronics,4,50,200,CUST036,Male,52,Victoria,British Columbia,Canada,Spring,True,Returning,7135,13
+268,2023-04-13,Beauty,2,50,100,CUST015,Female,42,Thompson,Manitoba,Canada,Spring,True,Returning,8790,3
+269,2023-04-13,Clothing,2,30,60,CUST032,Male,30,Moncton,New Brunswick,Canada,Spring,True,Returning,11190,7
+270,2023-04-15,Beauty,4,50,200,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,True,Returning,13210,3
+271,2023-04-15,Beauty,1,500,500,CUST032,Male,30,Moncton,New Brunswick,Canada,Spring,False,Returning,11190,5
+272,2023-04-16,Clothing,1,300,300,CUST022,Male,18,Gatineau,Quebec,Canada,Spring,True,Returning,11785,9
+273,2023-04-17,Beauty,1,25,25,CUST009,Male,63,Burnaby,British Columbia,Canada,Spring,True,Returning,5060,1
+274,2023-04-18,Beauty,2,25,50,CUST029,Female,42,Brandon,Manitoba,Canada,Spring,False,Returning,9630,1
+275,2023-04-18,Beauty,1,300,300,CUST027,Female,38,Kitchener,Ontario,Canada,Spring,True,Returning,4250,4
+276,2023-04-18,Electronics,2,25,50,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Spring,True,Returning,9680,11
+277,2023-04-18,Beauty,4,25,100,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,True,Returning,7205,1
+278,2023-04-19,Clothing,1,50,50,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,11275,8
+279,2023-04-19,Clothing,3,300,900,CUST009,Male,63,Burnaby,British Columbia,Canada,Spring,False,Returning,5060,9
+280,2023-04-19,Electronics,3,500,1500,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,21825,15
+281,2023-04-19,Beauty,2,25,50,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,True,Returning,16090,1
+282,2023-04-19,Beauty,3,25,75,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Spring,False,Returning,16805,1
+283,2023-04-19,Clothing,3,50,150,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,True,Returning,8665,8
+284,2023-04-20,Electronics,2,25,50,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,False,Returning,16090,11
+285,2023-04-20,Clothing,4,500,2000,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,False,Returning,7205,10
+286,2023-04-20,Clothing,1,50,50,CUST001,Male,34,Kitchener,Ontario,Canada,Spring,True,Returning,14430,8
+287,2023-04-20,Beauty,4,300,1200,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,True,Returning,16090,4
+288,2023-04-20,Beauty,3,25,75,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Spring,False,Returning,10365,1
+289,2023-04-21,Clothing,4,30,120,CUST015,Female,42,Thompson,Manitoba,Canada,Spring,True,Returning,8790,7
+290,2023-04-21,Electronics,1,50,50,CUST033,Female,50,Sydney,Nova Scotia,Canada,Spring,False,Returning,20180,13
+291,2023-04-22,Clothing,2,25,50,CUST034,Female,51,Regina,Saskatchewan,Canada,Spring,True,Returning,6665,6
+292,2023-04-22,Clothing,4,25,100,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,False,Returning,11590,6
+293,2023-04-22,Clothing,3,25,75,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,False,Returning,8665,6
+294,2023-04-23,Beauty,2,300,600,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,False,Returning,8665,4
+295,2023-04-23,Beauty,2,50,100,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Spring,True,Returning,16805,3
+296,2023-04-23,Beauty,1,25,25,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,False,Returning,6090,1
+297,2023-04-23,Beauty,1,500,500,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,True,Returning,13210,5
+298,2023-04-23,Clothing,3,30,90,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Spring,True,Returning,6460,7
+299,2023-04-23,Beauty,3,500,1500,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,False,Returning,11590,5
+300,2023-04-23,Clothing,3,30,90,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,True,Returning,6090,7
+301,2023-04-24,Clothing,4,30,120,CUST039,Male,23,Kitchener,Ontario,Canada,Spring,False,Returning,7785,7
+302,2023-04-24,Electronics,2,25,50,CUST017,Female,27,Laval,Quebec,Canada,Spring,True,Returning,9755,11
+303,2023-04-25,Clothing,2,50,100,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,True,Returning,6090,8
+304,2023-04-25,Clothing,1,30,30,CUST012,Male,35,Regina,Saskatchewan,Canada,Spring,True,Returning,6685,7
+305,2023-04-25,Beauty,1,30,30,CUST042,Male,22,Surrey,British Columbia,Canada,Spring,False,Returning,4220,2
+306,2023-04-26,Clothing,4,30,120,CUST033,Female,50,Sydney,Nova Scotia,Canada,Spring,True,Returning,20180,7
+307,2023-04-26,Beauty,3,30,90,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,5375,2
+308,2023-04-26,Electronics,2,30,60,CUST013,Male,22,Montreal,Quebec,Canada,Spring,True,Returning,5740,12
+309,2023-04-27,Beauty,4,50,200,CUST031,Male,44,Burnaby,British Columbia,Canada,Spring,False,Returning,6385,3
+310,2023-04-27,Electronics,1,30,30,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,5375,12
+311,2023-04-27,Clothing,4,300,1200,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,False,Returning,13210,9
+312,2023-04-28,Beauty,2,25,50,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,11275,1
+313,2023-04-28,Electronics,2,30,60,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,False,Returning,12185,12
+314,2023-04-28,Clothing,1,25,25,CUST021,Female,50,Burnaby,British Columbia,Canada,Spring,True,Returning,8475,6
+315,2023-04-29,Clothing,3,300,900,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,False,Returning,16090,9
+316,2023-04-29,Beauty,2,500,1000,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,False,Returning,12185,5
+317,2023-04-29,Clothing,2,30,60,CUST042,Male,22,Surrey,British Columbia,Canada,Spring,False,Returning,4220,7
+318,2023-04-30,Beauty,3,25,75,CUST044,Female,22,Gatineau,Quebec,Canada,Spring,False,Returning,8150,1
+319,2023-04-30,Clothing,1,30,30,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,True,Returning,13210,7
+320,2023-04-30,Electronics,2,25,50,CUST024,Female,49,Quebec City,Quebec,Canada,Spring,False,Returning,5180,11
+321,2023-05-01,Beauty,2,50,100,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,True,Returning,16090,3
+322,2023-05-01,Clothing,1,500,500,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,5375,10
+323,2023-05-01,Clothing,1,25,25,CUST039,Male,23,Kitchener,Ontario,Canada,Spring,False,Returning,7785,6
+324,2023-05-02,Electronics,3,30,90,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,9205,12
+325,2023-05-02,Clothing,1,25,25,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,True,Returning,8665,6
+326,2023-05-02,Beauty,1,50,50,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Spring,True,Returning,5225,3
+327,2023-05-03,Clothing,3,30,90,CUST013,Male,22,Montreal,Quebec,Canada,Spring,True,Returning,5740,7
+328,2023-05-03,Clothing,3,25,75,CUST033,Female,50,Sydney,Nova Scotia,Canada,Spring,False,Returning,20180,6
+329,2023-05-03,Electronics,3,25,75,CUST009,Male,63,Burnaby,British Columbia,Canada,Spring,False,Returning,5060,11
+330,2023-05-03,Beauty,1,30,30,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,False,Returning,16090,2
+331,2023-05-03,Beauty,1,30,30,CUST033,Female,50,Sydney,Nova Scotia,Canada,Spring,True,Returning,20180,2
+332,2023-05-04,Beauty,3,30,90,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Spring,False,Returning,5225,2
+333,2023-05-04,Clothing,2,25,50,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,False,Returning,6090,6
+334,2023-05-04,Beauty,2,500,1000,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,True,Returning,13210,5
+335,2023-05-05,Clothing,4,30,120,CUST008,Male,30,Halifax,Nova Scotia,Canada,Spring,False,Returning,8190,7
+336,2023-05-05,Electronics,1,50,50,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,True,Returning,16090,13
+337,2023-05-05,Electronics,2,500,1000,CUST008,Male,30,Halifax,Nova Scotia,Canada,Spring,True,Returning,8190,15
+338,2023-05-05,Electronics,1,300,300,CUST029,Female,42,Brandon,Manitoba,Canada,Spring,True,Returning,9630,14
+339,2023-05-05,Electronics,1,50,50,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Spring,True,Returning,9680,13
+340,2023-05-06,Beauty,2,50,100,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,False,Returning,8665,3
+341,2023-05-06,Electronics,4,50,200,CUST017,Female,27,Laval,Quebec,Canada,Spring,True,Returning,9755,13
+342,2023-05-06,Electronics,2,30,60,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,True,Returning,6090,12
+343,2023-05-06,Electronics,2,300,600,CUST029,Female,42,Brandon,Manitoba,Canada,Spring,False,Returning,9630,14
+344,2023-05-06,Electronics,1,30,30,CUST042,Male,22,Surrey,British Columbia,Canada,Spring,True,Returning,4220,12
+345,2023-05-07,Beauty,1,50,50,CUST026,Female,28,Saint John,New Brunswick,Canada,Spring,False,Returning,10485,3
+346,2023-05-07,Beauty,2,300,600,CUST017,Female,27,Laval,Quebec,Canada,Spring,True,Returning,9755,4
+347,2023-05-07,Clothing,4,50,200,CUST047,Female,40,Toronto,Ontario,Canada,Spring,True,Returning,14500,8
+348,2023-05-07,Electronics,4,30,120,CUST036,Male,52,Victoria,British Columbia,Canada,Spring,True,Returning,7135,12
+349,2023-05-07,Electronics,1,25,25,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,True,Returning,12185,11
+350,2023-05-08,Beauty,3,25,75,CUST024,Female,49,Quebec City,Quebec,Canada,Spring,False,Returning,5180,1
+351,2023-05-08,Electronics,1,500,500,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,11275,15
+352,2023-05-08,Beauty,1,50,50,CUST031,Male,44,Burnaby,British Columbia,Canada,Spring,True,Returning,6385,3
+353,2023-05-08,Electronics,3,25,75,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Spring,False,Returning,5225,11
+354,2023-05-08,Clothing,3,500,1500,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,False,Returning,7205,10
+355,2023-05-08,Electronics,4,500,2000,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,True,Returning,13210,15
+356,2023-05-09,Electronics,1,500,500,CUST019,Female,62,Toronto,Ontario,Canada,Spring,True,Returning,7810,15
+357,2023-05-09,Beauty,4,25,100,CUST024,Female,49,Quebec City,Quebec,Canada,Spring,False,Returning,5180,1
+358,2023-05-09,Clothing,2,30,60,CUST020,Male,22,Laval,Quebec,Canada,Spring,True,Returning,7680,7
+359,2023-05-10,Clothing,4,50,200,CUST044,Female,22,Gatineau,Quebec,Canada,Spring,False,Returning,8150,8
+360,2023-05-10,Clothing,4,500,2000,CUST015,Female,42,Thompson,Manitoba,Canada,Spring,False,Returning,8790,10
+361,2023-05-11,Clothing,1,30,30,CUST036,Male,52,Victoria,British Columbia,Canada,Spring,False,Returning,7135,7
+362,2023-05-12,Clothing,4,25,100,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,True,Returning,7205,6
+363,2023-05-13,Beauty,4,50,200,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,7650,3
+364,2023-05-13,Electronics,2,300,600,CUST026,Female,28,Saint John,New Brunswick,Canada,Spring,False,Returning,10485,14
+365,2023-05-14,Electronics,2,30,60,CUST012,Male,35,Regina,Saskatchewan,Canada,Spring,False,Returning,6685,12
+366,2023-05-14,Clothing,1,500,500,CUST012,Male,35,Regina,Saskatchewan,Canada,Spring,True,Returning,6685,10
+367,2023-05-14,Electronics,1,500,500,CUST026,Female,28,Saint John,New Brunswick,Canada,Spring,False,Returning,10485,15
+368,2023-05-15,Electronics,2,30,60,CUST032,Male,30,Moncton,New Brunswick,Canada,Spring,False,Returning,11190,12
+369,2023-05-15,Electronics,4,30,120,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,False,Returning,16090,12
+370,2023-05-15,Beauty,3,500,1500,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,True,Returning,12185,5
+371,2023-05-16,Clothing,2,300,600,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,True,Returning,12185,9
+372,2023-05-16,Beauty,1,30,30,CUST045,Female,55,Montreal,Quebec,Canada,Spring,False,Returning,10525,2
+373,2023-05-16,Beauty,1,300,300,CUST012,Male,35,Regina,Saskatchewan,Canada,Spring,True,Returning,6685,4
+374,2023-05-16,Electronics,3,300,900,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Spring,False,Returning,11980,14
+375,2023-05-16,Beauty,1,30,30,CUST026,Female,28,Saint John,New Brunswick,Canada,Spring,False,Returning,10485,2
+376,2023-05-16,Clothing,1,50,50,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Spring,True,Returning,6460,8
+377,2023-05-16,Electronics,4,500,2000,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,11275,15
+378,2023-05-16,Electronics,4,500,2000,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Spring,False,Returning,5225,15
+379,2023-05-16,Clothing,2,500,1000,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Spring,True,Returning,7675,10
+380,2023-05-16,Beauty,3,50,150,CUST012,Male,35,Regina,Saskatchewan,Canada,Spring,True,Returning,6685,3
+381,2023-05-16,Electronics,4,50,200,CUST045,Female,55,Montreal,Quebec,Canada,Spring,True,Returning,10525,13
+382,2023-05-17,Electronics,4,500,2000,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Spring,True,Returning,7675,15
+383,2023-05-17,Electronics,1,50,50,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,7650,13
+384,2023-05-17,Clothing,2,500,1000,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,False,Returning,16090,10
+385,2023-05-18,Electronics,1,500,500,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Spring,True,Returning,4310,15
+386,2023-05-18,Clothing,1,50,50,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Spring,False,Returning,16805,8
+387,2023-05-19,Beauty,2,25,50,CUST027,Female,38,Kitchener,Ontario,Canada,Spring,True,Returning,4250,1
+388,2023-05-19,Beauty,2,500,1000,CUST032,Male,30,Moncton,New Brunswick,Canada,Spring,True,Returning,11190,5
+389,2023-05-19,Electronics,1,300,300,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Spring,True,Returning,16805,14
+390,2023-05-20,Electronics,2,25,50,CUST037,Female,18,Moncton,New Brunswick,Canada,Spring,False,Returning,13210,11
+391,2023-05-20,Clothing,3,25,75,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,5375,6
+392,2023-05-20,Clothing,2,300,600,CUST036,Male,52,Victoria,British Columbia,Canada,Spring,False,Returning,7135,9
+393,2023-05-21,Electronics,3,300,900,CUST024,Female,49,Quebec City,Quebec,Canada,Spring,False,Returning,5180,14
+394,2023-05-21,Clothing,3,500,1500,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,21825,10
+395,2023-05-21,Clothing,1,500,500,CUST033,Female,50,Sydney,Nova Scotia,Canada,Spring,False,Returning,20180,10
+396,2023-05-22,Beauty,3,500,1500,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,True,Returning,11590,5
+397,2023-05-22,Clothing,4,30,120,CUST021,Female,50,Burnaby,British Columbia,Canada,Spring,False,Returning,8475,7
+398,2023-05-22,Clothing,3,30,90,CUST032,Male,30,Moncton,New Brunswick,Canada,Spring,False,Returning,11190,7
+399,2023-05-22,Clothing,4,25,100,CUST017,Female,27,Laval,Quebec,Canada,Spring,False,Returning,9755,6
+400,2023-05-23,Electronics,4,500,2000,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,True,Returning,12185,15
+401,2023-05-23,Electronics,3,300,900,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,9205,14
+402,2023-05-23,Beauty,3,50,150,CUST036,Male,52,Victoria,British Columbia,Canada,Spring,False,Returning,7135,3
+403,2023-05-23,Beauty,4,500,2000,CUST022,Male,18,Gatineau,Quebec,Canada,Spring,False,Returning,11785,5
+404,2023-05-23,Electronics,4,300,1200,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Spring,True,Returning,10365,14
+405,2023-05-23,Electronics,1,30,30,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,7650,12
+406,2023-05-23,Clothing,4,300,1200,CUST047,Female,40,Toronto,Ontario,Canada,Spring,False,Returning,14500,9
+407,2023-05-23,Beauty,3,25,75,CUST027,Female,38,Kitchener,Ontario,Canada,Spring,True,Returning,4250,1
+408,2023-05-23,Electronics,3,300,900,CUST017,Female,27,Laval,Quebec,Canada,Spring,True,Returning,9755,14
+409,2023-05-24,Clothing,2,25,50,CUST007,Male,46,Saint John,New Brunswick,Canada,Spring,True,Returning,4910,6
+410,2023-05-25,Beauty,2,500,1000,CUST022,Male,18,Gatineau,Quebec,Canada,Spring,False,Returning,11785,5
+411,2023-05-25,Electronics,2,500,1000,CUST034,Female,51,Regina,Saskatchewan,Canada,Spring,False,Returning,6665,15
+412,2023-05-25,Clothing,2,300,600,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Spring,False,Returning,11980,9
+413,2023-05-26,Beauty,3,300,900,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Spring,True,Returning,6090,4
+414,2023-05-26,Clothing,2,500,1000,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,21825,10
+415,2023-05-26,Clothing,4,30,120,CUST013,Male,22,Montreal,Quebec,Canada,Spring,True,Returning,5740,7
+416,2023-05-27,Clothing,4,500,2000,CUST007,Male,46,Saint John,New Brunswick,Canada,Spring,False,Returning,4910,10
+417,2023-05-27,Clothing,3,50,150,CUST046,Female,20,Calgary,Alberta,Canada,Spring,False,Returning,4380,8
+418,2023-05-27,Electronics,2,25,50,CUST001,Male,34,Kitchener,Ontario,Canada,Spring,True,Returning,14430,11
+419,2023-05-28,Clothing,3,25,75,CUST001,Male,34,Kitchener,Ontario,Canada,Spring,True,Returning,14430,6
+420,2023-05-29,Beauty,4,300,1200,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,21825,4
+421,2023-05-30,Electronics,2,25,50,CUST012,Male,35,Regina,Saskatchewan,Canada,Spring,True,Returning,6685,11
+422,2023-05-30,Beauty,3,30,90,CUST020,Male,22,Laval,Quebec,Canada,Spring,True,Returning,7680,2
+423,2023-05-31,Clothing,4,50,200,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,21825,8
+424,2023-05-31,Clothing,3,300,900,CUST029,Female,42,Brandon,Manitoba,Canada,Spring,True,Returning,9630,9
+425,2023-05-31,Electronics,4,300,1200,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Spring,False,Returning,9680,14
+426,2023-06-01,Clothing,2,25,50,CUST042,Male,22,Surrey,British Columbia,Canada,Spring,False,Returning,4220,6
+427,2023-06-01,Beauty,1,50,50,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,False,Returning,12185,3
+428,2023-06-01,Clothing,2,30,60,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,21825,7
+429,2023-06-02,Electronics,2,25,50,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,False,Returning,7205,11
+430,2023-06-02,Clothing,2,25,50,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,9205,6
+431,2023-06-02,Electronics,2,25,50,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,5375,11
+432,2023-06-03,Beauty,1,25,25,CUST032,Male,30,Moncton,New Brunswick,Canada,Spring,True,Returning,11190,1
+433,2023-06-03,Beauty,1,500,500,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,True,Returning,7205,5
+434,2023-06-03,Clothing,1,500,500,CUST021,Female,50,Burnaby,British Columbia,Canada,Spring,False,Returning,8475,10
+435,2023-06-04,Beauty,1,30,30,CUST046,Female,20,Calgary,Alberta,Canada,Spring,True,Returning,4380,2
+436,2023-06-04,Electronics,1,50,50,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,9205,13
+437,2023-06-04,Clothing,3,300,900,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Spring,False,Returning,11980,9
+438,2023-06-04,Clothing,1,50,50,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Spring,True,Returning,10365,8
+439,2023-06-05,Clothing,2,25,50,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Spring,True,Returning,6460,6
+440,2023-06-05,Electronics,1,50,50,CUST017,Female,27,Laval,Quebec,Canada,Spring,True,Returning,9755,13
+441,2023-06-06,Beauty,4,50,200,CUST013,Male,22,Montreal,Quebec,Canada,Spring,True,Returning,5740,3
+442,2023-06-06,Electronics,1,500,500,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Spring,True,Returning,11980,15
+443,2023-06-06,Electronics,4,300,1200,CUST032,Male,30,Moncton,New Brunswick,Canada,Spring,False,Returning,11190,14
+444,2023-06-06,Electronics,2,25,50,CUST044,Female,22,Gatineau,Quebec,Canada,Spring,True,Returning,8150,11
+445,2023-06-07,Electronics,1,50,50,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,True,Returning,11590,13
+446,2023-06-07,Clothing,2,50,100,CUST024,Female,49,Quebec City,Quebec,Canada,Spring,True,Returning,5180,8
+447,2023-06-08,Beauty,1,500,500,CUST017,Female,27,Laval,Quebec,Canada,Spring,True,Returning,9755,5
+448,2023-06-08,Beauty,4,300,1200,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Spring,True,Returning,10365,4
+449,2023-06-09,Electronics,4,30,120,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Spring,False,Returning,4310,12
+450,2023-06-09,Clothing,4,50,200,CUST034,Female,51,Regina,Saskatchewan,Canada,Spring,True,Returning,6665,8
+451,2023-06-09,Clothing,3,500,1500,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Spring,True,Returning,11980,10
+452,2023-06-10,Beauty,4,50,200,CUST019,Female,62,Toronto,Ontario,Canada,Spring,True,Returning,7810,3
+453,2023-06-10,Electronics,3,500,1500,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,True,Returning,11590,15
+454,2023-06-10,Electronics,2,25,50,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Spring,False,Returning,9680,11
+455,2023-06-10,Clothing,2,500,1000,CUST047,Female,40,Toronto,Ontario,Canada,Spring,True,Returning,14500,10
+456,2023-06-11,Electronics,2,500,1000,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,21825,15
+457,2023-06-11,Clothing,1,300,300,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Spring,False,Returning,9680,9
+458,2023-06-11,Clothing,3,300,900,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,11275,9
+459,2023-06-11,Clothing,4,25,100,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,5375,6
+460,2023-06-11,Beauty,2,500,1000,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Spring,True,Returning,16805,5
+461,2023-06-12,Electronics,2,25,50,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,21825,11
+462,2023-06-13,Clothing,1,500,500,CUST005,Male,30,Hamilton,Ontario,Canada,Spring,True,Returning,8665,10
+463,2023-06-14,Clothing,3,300,900,CUST031,Male,44,Burnaby,British Columbia,Canada,Spring,False,Returning,6385,9
+464,2023-06-15,Beauty,4,30,120,CUST019,Female,62,Toronto,Ontario,Canada,Spring,False,Returning,7810,2
+465,2023-06-15,Beauty,2,50,100,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Spring,False,Returning,9205,3
+466,2023-06-16,Beauty,4,50,200,CUST023,Female,35,Victoria,British Columbia,Canada,Spring,False,Returning,11590,3
+467,2023-06-16,Electronics,1,30,30,CUST012,Male,35,Regina,Saskatchewan,Canada,Spring,False,Returning,6685,12
+468,2023-06-17,Beauty,4,50,200,CUST044,Female,22,Gatineau,Quebec,Canada,Spring,True,Returning,8150,3
+469,2023-06-17,Beauty,1,50,50,CUST046,Female,20,Calgary,Alberta,Canada,Spring,False,Returning,4380,3
+470,2023-06-17,Clothing,4,300,1200,CUST030,Female,39,Lethbridge,Alberta,Canada,Spring,False,Returning,12185,9
+471,2023-06-18,Electronics,3,300,900,CUST035,Female,58,Victoria,British Columbia,Canada,Spring,True,Returning,16090,14
+472,2023-06-19,Clothing,4,30,120,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Spring,True,Returning,5225,7
+473,2023-06-19,Beauty,4,300,1200,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Spring,True,Returning,16805,4
+474,2023-06-19,Clothing,1,25,25,CUST034,Female,51,Regina,Saskatchewan,Canada,Spring,False,Returning,6665,6
+475,2023-06-19,Electronics,3,500,1500,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Spring,True,Returning,21825,15
+476,2023-06-19,Clothing,4,25,100,CUST019,Female,62,Toronto,Ontario,Canada,Spring,True,Returning,7810,6
+477,2023-06-20,Clothing,3,30,90,CUST024,Female,49,Quebec City,Quebec,Canada,Spring,True,Returning,5180,7
+478,2023-06-20,Electronics,4,25,100,CUST010,Female,52,Sydney,Nova Scotia,Canada,Spring,True,Returning,7205,11
+479,2023-06-21,Electronics,4,25,100,CUST008,Male,30,Halifax,Nova Scotia,Canada,Summer,False,Returning,8190,11
+480,2023-06-21,Clothing,3,25,75,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Summer,False,Returning,7675,6
+481,2023-06-22,Beauty,3,300,900,CUST017,Female,27,Laval,Quebec,Canada,Summer,False,Returning,9755,4
+482,2023-06-22,Clothing,3,50,150,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Summer,False,Returning,6460,8
+483,2023-06-22,Beauty,1,50,50,CUST015,Female,42,Thompson,Manitoba,Canada,Summer,False,Returning,8790,3
+484,2023-06-22,Clothing,4,30,120,CUST017,Female,27,Laval,Quebec,Canada,Summer,True,Returning,9755,7
+485,2023-06-23,Beauty,4,30,120,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Summer,True,Returning,9680,2
+486,2023-06-23,Clothing,1,50,50,CUST012,Male,35,Regina,Saskatchewan,Canada,Summer,True,Returning,6685,8
+487,2023-06-24,Beauty,3,300,900,CUST039,Male,23,Kitchener,Ontario,Canada,Summer,False,Returning,7785,4
+488,2023-06-24,Electronics,4,500,2000,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,False,Returning,14430,15
+489,2023-06-24,Electronics,4,300,1200,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Summer,True,Returning,6460,14
+490,2023-06-24,Beauty,4,30,120,CUST042,Male,22,Surrey,British Columbia,Canada,Summer,False,Returning,4220,2
+491,2023-06-24,Electronics,4,500,2000,CUST008,Male,30,Halifax,Nova Scotia,Canada,Summer,True,Returning,8190,15
+492,2023-06-25,Electronics,3,300,900,CUST019,Female,62,Toronto,Ontario,Canada,Summer,True,Returning,7810,14
+493,2023-06-26,Beauty,1,30,30,CUST036,Male,52,Victoria,British Columbia,Canada,Summer,False,Returning,7135,2
+494,2023-06-26,Electronics,4,300,1200,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,False,Returning,16805,14
+495,2023-06-26,Electronics,3,300,900,CUST031,Male,44,Burnaby,British Columbia,Canada,Summer,True,Returning,6385,14
+496,2023-06-27,Beauty,3,300,900,CUST029,Female,42,Brandon,Manitoba,Canada,Summer,True,Returning,9630,4
+497,2023-06-28,Beauty,1,300,300,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,True,Returning,13210,4
+498,2023-06-29,Clothing,1,50,50,CUST039,Male,23,Kitchener,Ontario,Canada,Summer,False,Returning,7785,8
+499,2023-06-29,Beauty,4,500,2000,CUST023,Female,35,Victoria,British Columbia,Canada,Summer,False,Returning,11590,5
+500,2023-06-29,Beauty,4,25,100,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,False,Returning,16805,1
+501,2023-06-30,Clothing,1,30,30,CUST047,Female,40,Toronto,Ontario,Canada,Summer,True,Returning,14500,7
+502,2023-06-30,Clothing,2,500,1000,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,9205,10
+503,2023-07-01,Beauty,3,30,90,CUST045,Female,55,Montreal,Quebec,Canada,Summer,True,Returning,10525,2
+504,2023-07-01,Beauty,2,30,60,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,True,Returning,16805,2
+505,2023-07-01,Electronics,4,25,100,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,7650,11
+506,2023-07-01,Clothing,3,500,1500,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,True,Returning,14430,10
+507,2023-07-03,Electronics,1,30,30,CUST039,Male,23,Kitchener,Ontario,Canada,Summer,False,Returning,7785,12
+508,2023-07-03,Electronics,4,50,200,CUST008,Male,30,Halifax,Nova Scotia,Canada,Summer,False,Returning,8190,13
+509,2023-07-04,Clothing,1,500,500,CUST024,Female,49,Quebec City,Quebec,Canada,Summer,True,Returning,5180,10
+510,2023-07-05,Clothing,1,50,50,CUST032,Male,30,Moncton,New Brunswick,Canada,Summer,False,Returning,11190,8
+511,2023-07-05,Clothing,4,50,200,CUST020,Male,22,Laval,Quebec,Canada,Summer,False,Returning,7680,8
+512,2023-07-05,Beauty,1,30,30,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,7650,2
+513,2023-07-05,Beauty,1,500,500,CUST024,Female,49,Quebec City,Quebec,Canada,Summer,False,Returning,5180,5
+514,2023-07-06,Beauty,4,50,200,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Summer,True,Returning,9680,3
+515,2023-07-06,Clothing,2,30,60,CUST035,Female,58,Victoria,British Columbia,Canada,Summer,True,Returning,16090,7
+516,2023-07-06,Beauty,4,500,2000,CUST017,Female,27,Laval,Quebec,Canada,Summer,False,Returning,9755,5
+517,2023-07-08,Electronics,2,50,100,CUST017,Female,27,Laval,Quebec,Canada,Summer,False,Returning,9755,13
+518,2023-07-08,Electronics,4,30,120,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,7650,12
+519,2023-07-09,Clothing,2,50,100,CUST033,Female,50,Sydney,Nova Scotia,Canada,Summer,False,Returning,20180,8
+520,2023-07-09,Beauty,1,50,50,CUST021,Female,50,Burnaby,British Columbia,Canada,Summer,False,Returning,8475,3
+521,2023-07-09,Clothing,4,25,100,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Summer,False,Returning,6460,6
+522,2023-07-09,Clothing,3,25,75,CUST013,Male,22,Montreal,Quebec,Canada,Summer,False,Returning,5740,6
+523,2023-07-11,Beauty,2,50,100,CUST005,Male,30,Hamilton,Ontario,Canada,Summer,True,Returning,8665,3
+524,2023-07-11,Electronics,2,50,100,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,9205,13
+525,2023-07-12,Electronics,1,30,30,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Summer,True,Returning,5225,12
+526,2023-07-13,Electronics,2,50,100,CUST045,Female,55,Montreal,Quebec,Canada,Summer,False,Returning,10525,13
+527,2023-07-14,Beauty,4,25,100,CUST020,Male,22,Laval,Quebec,Canada,Summer,False,Returning,7680,1
+528,2023-07-14,Electronics,2,30,60,CUST035,Female,58,Victoria,British Columbia,Canada,Summer,False,Returning,16090,12
+529,2023-07-14,Electronics,3,300,900,CUST029,Female,42,Brandon,Manitoba,Canada,Summer,False,Returning,9630,14
+530,2023-07-14,Beauty,2,300,600,CUST013,Male,22,Montreal,Quebec,Canada,Summer,True,Returning,5740,4
+531,2023-07-14,Beauty,4,500,2000,CUST015,Female,42,Thompson,Manitoba,Canada,Summer,False,Returning,8790,5
+532,2023-07-14,Clothing,1,300,300,CUST013,Male,22,Montreal,Quebec,Canada,Summer,True,Returning,5740,9
+533,2023-07-14,Beauty,3,30,90,CUST022,Male,18,Gatineau,Quebec,Canada,Summer,False,Returning,11785,2
+534,2023-07-14,Beauty,3,300,900,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,False,Returning,14430,4
+535,2023-07-14,Electronics,3,50,150,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,9205,13
+536,2023-07-14,Clothing,1,25,25,CUST010,Female,52,Sydney,Nova Scotia,Canada,Summer,False,Returning,7205,6
+537,2023-07-15,Clothing,3,500,1500,CUST036,Male,52,Victoria,British Columbia,Canada,Summer,False,Returning,7135,10
+538,2023-07-15,Beauty,3,500,1500,CUST019,Female,62,Toronto,Ontario,Canada,Summer,True,Returning,7810,5
+539,2023-07-16,Clothing,3,30,90,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Summer,True,Returning,5225,7
+540,2023-07-16,Clothing,4,25,100,CUST050,Female,27,Winnipeg,Manitoba,Canada,Summer,True,Returning,10320,6
+541,2023-07-17,Clothing,1,50,50,CUST036,Male,52,Victoria,British Columbia,Canada,Summer,False,Returning,7135,8
+542,2023-07-17,Clothing,3,300,900,CUST012,Male,35,Regina,Saskatchewan,Canada,Summer,True,Returning,6685,9
+543,2023-07-19,Electronics,4,50,200,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,21825,13
+544,2023-07-19,Electronics,2,30,60,CUST036,Male,52,Victoria,British Columbia,Canada,Summer,False,Returning,7135,12
+545,2023-07-19,Electronics,3,500,1500,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,False,Returning,16805,15
+546,2023-07-19,Electronics,1,300,300,CUST019,Female,62,Toronto,Ontario,Canada,Summer,True,Returning,7810,14
+547,2023-07-21,Electronics,2,500,1000,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,True,Returning,16805,15
+548,2023-07-22,Beauty,4,25,100,CUST032,Male,30,Moncton,New Brunswick,Canada,Summer,True,Returning,11190,1
+549,2023-07-22,Clothing,1,50,50,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,True,Returning,14430,8
+550,2023-07-23,Electronics,4,500,2000,CUST047,Female,40,Toronto,Ontario,Canada,Summer,True,Returning,14500,15
+551,2023-07-24,Beauty,2,30,60,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Summer,False,Returning,9680,2
+552,2023-07-24,Clothing,4,500,2000,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Summer,False,Returning,9680,10
+553,2023-07-24,Beauty,3,500,1500,CUST033,Female,50,Sydney,Nova Scotia,Canada,Summer,True,Returning,20180,5
+554,2023-07-24,Electronics,2,500,1000,CUST036,Male,52,Victoria,British Columbia,Canada,Summer,False,Returning,7135,15
+555,2023-07-24,Clothing,2,25,50,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Summer,True,Returning,6090,6
+556,2023-07-25,Electronics,2,500,1000,CUST050,Female,27,Winnipeg,Manitoba,Canada,Summer,False,Returning,10320,15
+557,2023-07-25,Beauty,1,500,500,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Summer,False,Returning,11980,5
+558,2023-07-25,Electronics,1,500,500,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,True,Returning,13210,15
+559,2023-07-26,Electronics,1,300,300,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Summer,True,Returning,7675,14
+560,2023-07-26,Beauty,2,50,100,CUST045,Female,55,Montreal,Quebec,Canada,Summer,True,Returning,10525,3
+561,2023-07-26,Beauty,2,300,600,CUST013,Male,22,Montreal,Quebec,Canada,Summer,False,Returning,5740,4
+562,2023-07-27,Beauty,3,30,90,CUST045,Female,55,Montreal,Quebec,Canada,Summer,True,Returning,10525,2
+563,2023-07-27,Electronics,1,500,500,CUST013,Male,22,Montreal,Quebec,Canada,Summer,True,Returning,5740,15
+564,2023-07-27,Clothing,2,300,600,CUST009,Male,63,Burnaby,British Columbia,Canada,Summer,False,Returning,5060,9
+565,2023-07-28,Electronics,3,50,150,CUST047,Female,40,Toronto,Ontario,Canada,Summer,False,Returning,14500,13
+566,2023-07-28,Beauty,2,500,1000,CUST035,Female,58,Victoria,British Columbia,Canada,Summer,False,Returning,16090,5
+567,2023-07-28,Beauty,3,300,900,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Summer,True,Returning,11980,4
+568,2023-07-28,Electronics,1,500,500,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,5375,15
+569,2023-07-28,Beauty,3,300,900,CUST029,Female,42,Brandon,Manitoba,Canada,Summer,True,Returning,9630,4
+570,2023-07-29,Electronics,3,25,75,CUST050,Female,27,Winnipeg,Manitoba,Canada,Summer,False,Returning,10320,11
+571,2023-07-29,Beauty,1,500,500,CUST007,Male,46,Saint John,New Brunswick,Canada,Summer,False,Returning,4910,5
+572,2023-07-30,Electronics,3,50,150,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,False,Returning,13210,13
+573,2023-07-30,Beauty,4,30,120,CUST031,Male,44,Burnaby,British Columbia,Canada,Summer,False,Returning,6385,2
+574,2023-07-31,Beauty,3,500,1500,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Summer,False,Returning,9680,5
+575,2023-08-01,Beauty,4,30,120,CUST045,Female,55,Montreal,Quebec,Canada,Summer,True,Returning,10525,2
+576,2023-08-01,Beauty,2,50,100,CUST026,Female,28,Saint John,New Brunswick,Canada,Summer,True,Returning,10485,3
+577,2023-08-01,Electronics,1,500,500,CUST032,Male,30,Moncton,New Brunswick,Canada,Summer,True,Returning,11190,15
+578,2023-08-02,Electronics,2,25,50,CUST013,Male,22,Montreal,Quebec,Canada,Summer,True,Returning,5740,11
+579,2023-08-03,Electronics,1,300,300,CUST017,Female,27,Laval,Quebec,Canada,Summer,False,Returning,9755,14
+580,2023-08-03,Beauty,2,25,50,CUST035,Female,58,Victoria,British Columbia,Canada,Summer,True,Returning,16090,1
+581,2023-08-03,Electronics,1,25,25,CUST042,Male,22,Surrey,British Columbia,Canada,Summer,False,Returning,4220,11
+582,2023-08-04,Clothing,2,25,50,CUST023,Female,35,Victoria,British Columbia,Canada,Summer,True,Returning,11590,6
+583,2023-08-04,Clothing,1,50,50,CUST021,Female,50,Burnaby,British Columbia,Canada,Summer,True,Returning,8475,8
+584,2023-08-04,Clothing,2,30,60,CUST027,Female,38,Kitchener,Ontario,Canada,Summer,False,Returning,4250,7
+585,2023-08-04,Beauty,2,50,100,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,11275,3
+586,2023-08-05,Clothing,1,25,25,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,11275,6
+587,2023-08-05,Beauty,3,300,900,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Summer,False,Returning,6460,4
+588,2023-08-05,Clothing,1,500,500,CUST032,Male,30,Moncton,New Brunswick,Canada,Summer,False,Returning,11190,10
+589,2023-08-05,Electronics,1,30,30,CUST029,Female,42,Brandon,Manitoba,Canada,Summer,True,Returning,9630,12
+590,2023-08-05,Clothing,2,25,50,CUST046,Female,20,Calgary,Alberta,Canada,Summer,True,Returning,4380,6
+591,2023-08-05,Beauty,4,300,1200,CUST008,Male,30,Halifax,Nova Scotia,Canada,Summer,True,Returning,8190,4
+592,2023-08-05,Electronics,3,500,1500,CUST012,Male,35,Regina,Saskatchewan,Canada,Summer,False,Returning,6685,15
+593,2023-08-05,Electronics,2,500,1000,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,21825,15
+594,2023-08-06,Electronics,4,500,2000,CUST047,Female,40,Toronto,Ontario,Canada,Summer,True,Returning,14500,15
+595,2023-08-06,Electronics,1,500,500,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,False,Returning,16805,15
+596,2023-08-07,Electronics,3,300,900,CUST012,Male,35,Regina,Saskatchewan,Canada,Summer,False,Returning,6685,14
+597,2023-08-07,Beauty,4,30,120,CUST026,Female,28,Saint John,New Brunswick,Canada,Summer,True,Returning,10485,2
+598,2023-08-08,Clothing,1,25,25,CUST050,Female,27,Winnipeg,Manitoba,Canada,Summer,True,Returning,10320,6
+599,2023-08-08,Clothing,4,300,1200,CUST039,Male,23,Kitchener,Ontario,Canada,Summer,False,Returning,7785,9
+600,2023-08-08,Clothing,2,30,60,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,11275,7
+601,2023-08-08,Clothing,2,50,100,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Summer,True,Returning,5225,8
+602,2023-08-09,Clothing,4,50,200,CUST029,Female,42,Brandon,Manitoba,Canada,Summer,False,Returning,9630,8
+603,2023-08-09,Clothing,2,300,600,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,11275,9
+604,2023-08-09,Clothing,2,30,60,CUST045,Female,55,Montreal,Quebec,Canada,Summer,True,Returning,10525,7
+605,2023-08-09,Clothing,3,50,150,CUST023,Female,35,Victoria,British Columbia,Canada,Summer,False,Returning,11590,8
+606,2023-08-10,Clothing,4,50,200,CUST005,Male,30,Hamilton,Ontario,Canada,Summer,False,Returning,8665,8
+607,2023-08-11,Clothing,2,50,100,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Summer,False,Returning,9680,8
+608,2023-08-11,Beauty,2,300,600,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Summer,True,Returning,6460,4
+609,2023-08-11,Electronics,4,50,200,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,True,Returning,16805,13
+610,2023-08-12,Beauty,2,50,100,CUST047,Female,40,Toronto,Ontario,Canada,Summer,True,Returning,14500,3
+611,2023-08-12,Beauty,2,500,1000,CUST047,Female,40,Toronto,Ontario,Canada,Summer,False,Returning,14500,5
+612,2023-08-12,Electronics,3,50,150,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,False,Returning,13210,13
+613,2023-08-12,Clothing,4,30,120,CUST039,Male,23,Kitchener,Ontario,Canada,Summer,False,Returning,7785,7
+614,2023-08-13,Electronics,4,50,200,CUST020,Male,22,Laval,Quebec,Canada,Summer,False,Returning,7680,13
+615,2023-08-13,Clothing,1,500,500,CUST047,Female,40,Toronto,Ontario,Canada,Summer,True,Returning,14500,10
+616,2023-08-14,Electronics,1,30,30,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Summer,False,Returning,5225,12
+617,2023-08-14,Beauty,4,300,1200,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,9205,4
+618,2023-08-15,Clothing,2,50,100,CUST008,Male,30,Halifax,Nova Scotia,Canada,Summer,False,Returning,8190,8
+619,2023-08-15,Electronics,1,25,25,CUST033,Female,50,Sydney,Nova Scotia,Canada,Summer,True,Returning,20180,11
+620,2023-08-15,Electronics,4,30,120,CUST023,Female,35,Victoria,British Columbia,Canada,Summer,True,Returning,11590,12
+621,2023-08-15,Clothing,1,500,500,CUST039,Male,23,Kitchener,Ontario,Canada,Summer,True,Returning,7785,10
+622,2023-08-15,Electronics,4,50,200,CUST044,Female,22,Gatineau,Quebec,Canada,Summer,True,Returning,8150,13
+623,2023-08-15,Electronics,1,25,25,CUST042,Male,22,Surrey,British Columbia,Canada,Summer,False,Returning,4220,11
+624,2023-08-17,Electronics,3,300,900,CUST050,Female,27,Winnipeg,Manitoba,Canada,Summer,False,Returning,10320,14
+625,2023-08-18,Clothing,4,25,100,CUST024,Female,49,Quebec City,Quebec,Canada,Summer,True,Returning,5180,6
+626,2023-08-18,Electronics,1,30,30,CUST047,Female,40,Toronto,Ontario,Canada,Summer,True,Returning,14500,12
+627,2023-08-18,Electronics,3,500,1500,CUST022,Male,18,Gatineau,Quebec,Canada,Summer,True,Returning,11785,15
+628,2023-08-19,Clothing,3,500,1500,CUST005,Male,30,Hamilton,Ontario,Canada,Summer,False,Returning,8665,10
+629,2023-08-19,Electronics,2,50,100,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,False,Returning,14430,13
+630,2023-08-19,Electronics,2,30,60,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Summer,False,Returning,6460,12
+631,2023-08-19,Electronics,1,500,500,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,True,Returning,13210,15
+632,2023-08-20,Electronics,3,30,90,CUST007,Male,46,Saint John,New Brunswick,Canada,Summer,False,Returning,4910,12
+633,2023-08-21,Electronics,1,300,300,CUST030,Female,39,Lethbridge,Alberta,Canada,Summer,True,Returning,12185,14
+634,2023-08-21,Electronics,2,30,60,CUST008,Male,30,Halifax,Nova Scotia,Canada,Summer,True,Returning,8190,12
+635,2023-08-21,Electronics,1,50,50,CUST020,Male,22,Laval,Quebec,Canada,Summer,True,Returning,7680,13
+636,2023-08-21,Beauty,2,500,1000,CUST040,Male,45,Quebec City,Quebec,Canada,Summer,True,Returning,6800,5
+637,2023-08-21,Clothing,2,30,60,CUST023,Female,35,Victoria,British Columbia,Canada,Summer,False,Returning,11590,7
+638,2023-08-21,Electronics,3,30,90,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Summer,True,Returning,5225,12
+639,2023-08-22,Beauty,4,300,1200,CUST032,Male,30,Moncton,New Brunswick,Canada,Summer,False,Returning,11190,4
+640,2023-08-22,Beauty,3,25,75,CUST010,Female,52,Sydney,Nova Scotia,Canada,Summer,False,Returning,7205,1
+641,2023-08-23,Beauty,1,500,500,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,9205,5
+642,2023-08-23,Clothing,1,30,30,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,False,Returning,14430,7
+643,2023-08-23,Clothing,4,300,1200,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,True,Returning,14430,9
+644,2023-08-24,Electronics,4,300,1200,CUST024,Female,49,Quebec City,Quebec,Canada,Summer,True,Returning,5180,14
+645,2023-08-24,Electronics,1,30,30,CUST026,Female,28,Saint John,New Brunswick,Canada,Summer,True,Returning,10485,12
+646,2023-08-24,Beauty,3,25,75,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,True,Returning,13210,1
+647,2023-08-25,Beauty,3,25,75,CUST034,Female,51,Regina,Saskatchewan,Canada,Summer,False,Returning,6665,1
+648,2023-08-25,Electronics,4,50,200,CUST023,Female,35,Victoria,British Columbia,Canada,Summer,True,Returning,11590,13
+649,2023-08-25,Electronics,4,30,120,CUST024,Female,49,Quebec City,Quebec,Canada,Summer,False,Returning,5180,12
+650,2023-08-26,Beauty,3,300,900,CUST016,Male,19,Kitchener,Ontario,Canada,Summer,True,Returning,6045,4
+651,2023-08-26,Beauty,1,25,25,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,True,Returning,16805,1
+652,2023-08-26,Electronics,1,30,30,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Summer,True,Returning,10365,12
+653,2023-08-27,Electronics,3,50,150,CUST021,Female,50,Burnaby,British Columbia,Canada,Summer,False,Returning,8475,13
+654,2023-08-27,Electronics,4,300,1200,CUST029,Female,42,Brandon,Manitoba,Canada,Summer,True,Returning,9630,14
+655,2023-08-27,Electronics,1,300,300,CUST019,Female,62,Toronto,Ontario,Canada,Summer,False,Returning,7810,14
+656,2023-08-27,Clothing,3,25,75,CUST022,Male,18,Gatineau,Quebec,Canada,Summer,False,Returning,11785,6
+657,2023-08-28,Clothing,3,30,90,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,True,Returning,14430,7
+658,2023-08-28,Clothing,4,50,200,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Summer,True,Returning,10365,8
+659,2023-08-28,Beauty,2,30,60,CUST035,Female,58,Victoria,British Columbia,Canada,Summer,False,Returning,16090,2
+660,2023-08-29,Beauty,1,30,30,CUST021,Female,50,Burnaby,British Columbia,Canada,Summer,True,Returning,8475,2
+661,2023-08-29,Clothing,4,500,2000,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Summer,False,Returning,16805,10
+662,2023-08-29,Beauty,2,50,100,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,11275,3
+663,2023-08-29,Clothing,1,500,500,CUST034,Female,51,Regina,Saskatchewan,Canada,Summer,True,Returning,6665,10
+664,2023-08-31,Electronics,2,25,50,CUST019,Female,62,Toronto,Ontario,Canada,Summer,False,Returning,7810,11
+665,2023-08-31,Beauty,4,50,200,CUST030,Female,39,Lethbridge,Alberta,Canada,Summer,True,Returning,12185,3
+666,2023-08-31,Clothing,4,500,2000,CUST046,Female,20,Calgary,Alberta,Canada,Summer,False,Returning,4380,10
+667,2023-08-31,Beauty,2,30,60,CUST045,Female,55,Montreal,Quebec,Canada,Summer,False,Returning,10525,2
+668,2023-08-31,Clothing,2,25,50,CUST015,Female,42,Thompson,Manitoba,Canada,Summer,False,Returning,8790,6
+669,2023-09-01,Electronics,2,300,600,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,5375,14
+670,2023-09-01,Clothing,2,300,600,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,21825,9
+671,2023-09-01,Beauty,3,50,150,CUST035,Female,58,Victoria,British Columbia,Canada,Summer,True,Returning,16090,3
+672,2023-09-01,Beauty,1,25,25,CUST010,Female,52,Sydney,Nova Scotia,Canada,Summer,False,Returning,7205,1
+673,2023-09-02,Beauty,4,30,120,CUST005,Male,30,Hamilton,Ontario,Canada,Summer,False,Returning,8665,2
+674,2023-09-02,Electronics,2,25,50,CUST042,Male,22,Surrey,British Columbia,Canada,Summer,False,Returning,4220,11
+675,2023-09-02,Beauty,4,300,1200,CUST001,Male,34,Kitchener,Ontario,Canada,Summer,True,Returning,14430,4
+676,2023-09-03,Electronics,1,300,300,CUST015,Female,42,Thompson,Manitoba,Canada,Summer,False,Returning,8790,14
+677,2023-09-04,Electronics,2,500,1000,CUST026,Female,28,Saint John,New Brunswick,Canada,Summer,True,Returning,10485,15
+678,2023-09-05,Electronics,1,30,30,CUST022,Male,18,Gatineau,Quebec,Canada,Summer,True,Returning,11785,12
+679,2023-09-05,Clothing,1,500,500,CUST047,Female,40,Toronto,Ontario,Canada,Summer,True,Returning,14500,10
+680,2023-09-06,Beauty,3,25,75,CUST033,Female,50,Sydney,Nova Scotia,Canada,Summer,False,Returning,20180,1
+681,2023-09-06,Clothing,4,50,200,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Summer,True,Returning,6090,8
+682,2023-09-06,Clothing,4,50,200,CUST010,Female,52,Sydney,Nova Scotia,Canada,Summer,True,Returning,7205,8
+683,2023-09-06,Clothing,3,30,90,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Summer,True,Returning,11980,7
+684,2023-09-06,Clothing,4,300,1200,CUST042,Male,22,Surrey,British Columbia,Canada,Summer,True,Returning,4220,9
+685,2023-09-07,Clothing,4,30,120,CUST012,Male,35,Regina,Saskatchewan,Canada,Summer,False,Returning,6685,7
+686,2023-09-07,Clothing,2,50,100,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Summer,True,Returning,10365,8
+687,2023-09-07,Clothing,4,50,200,CUST024,Female,49,Quebec City,Quebec,Canada,Summer,True,Returning,5180,8
+688,2023-09-08,Beauty,3,300,900,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,9205,4
+689,2023-09-08,Electronics,2,25,50,CUST015,Female,42,Thompson,Manitoba,Canada,Summer,True,Returning,8790,11
+690,2023-09-08,Beauty,3,25,75,CUST016,Male,19,Kitchener,Ontario,Canada,Summer,False,Returning,6045,1
+691,2023-09-08,Electronics,2,50,100,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,5375,13
+692,2023-09-09,Beauty,1,50,50,CUST019,Female,62,Toronto,Ontario,Canada,Summer,False,Returning,7810,3
+693,2023-09-09,Electronics,2,50,100,CUST039,Male,23,Kitchener,Ontario,Canada,Summer,True,Returning,7785,13
+694,2023-09-09,Beauty,2,25,50,CUST015,Female,42,Thompson,Manitoba,Canada,Summer,False,Returning,8790,1
+695,2023-09-10,Electronics,4,50,200,CUST022,Male,18,Gatineau,Quebec,Canada,Summer,False,Returning,11785,13
+696,2023-09-11,Beauty,4,500,2000,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,21825,5
+697,2023-09-11,Electronics,4,50,200,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,False,Returning,13210,13
+698,2023-09-13,Electronics,2,25,50,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,False,Returning,13210,11
+699,2023-09-14,Clothing,4,300,1200,CUST042,Male,22,Surrey,British Columbia,Canada,Summer,True,Returning,4220,9
+700,2023-09-15,Clothing,3,25,75,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,5375,6
+701,2023-09-16,Electronics,4,25,100,CUST036,Male,52,Victoria,British Columbia,Canada,Summer,False,Returning,7135,11
+702,2023-09-16,Clothing,2,25,50,CUST037,Female,18,Moncton,New Brunswick,Canada,Summer,True,Returning,13210,6
+703,2023-09-16,Electronics,4,500,2000,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Summer,False,Returning,11980,15
+704,2023-09-17,Beauty,2,25,50,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,11275,1
+705,2023-09-17,Clothing,3,50,150,CUST007,Male,46,Saint John,New Brunswick,Canada,Summer,True,Returning,4910,8
+706,2023-09-17,Clothing,1,50,50,CUST012,Male,35,Regina,Saskatchewan,Canada,Summer,False,Returning,6685,8
+707,2023-09-17,Clothing,3,50,150,CUST044,Female,22,Gatineau,Quebec,Canada,Summer,True,Returning,8150,8
+708,2023-09-17,Beauty,1,300,300,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Summer,False,Returning,7675,4
+709,2023-09-18,Beauty,2,300,600,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Summer,False,Returning,5375,4
+710,2023-09-18,Beauty,4,50,200,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Summer,True,Returning,9205,3
+711,2023-09-18,Beauty,4,50,200,CUST033,Female,50,Sydney,Nova Scotia,Canada,Summer,False,Returning,20180,3
+712,2023-09-19,Electronics,4,25,100,CUST005,Male,30,Hamilton,Ontario,Canada,Summer,False,Returning,8665,11
+713,2023-09-19,Beauty,2,30,60,CUST026,Female,28,Saint John,New Brunswick,Canada,Summer,True,Returning,10485,2
+714,2023-09-21,Electronics,3,25,75,CUST033,Female,50,Sydney,Nova Scotia,Canada,Summer,True,Returning,20180,11
+715,2023-09-21,Electronics,1,30,30,CUST050,Female,27,Winnipeg,Manitoba,Canada,Summer,True,Returning,10320,12
+716,2023-09-22,Beauty,1,50,50,CUST047,Female,40,Toronto,Ontario,Canada,Summer,False,Returning,14500,3
+717,2023-09-22,Beauty,3,30,90,CUST008,Male,30,Halifax,Nova Scotia,Canada,Summer,False,Returning,8190,2
+718,2023-09-23,Clothing,2,50,100,CUST001,Male,34,Kitchener,Ontario,Canada,Fall,True,Returning,14430,8
+719,2023-09-24,Electronics,3,30,90,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,False,Returning,5060,12
+720,2023-09-24,Electronics,1,300,300,CUST042,Male,22,Surrey,British Columbia,Canada,Fall,False,Returning,4220,14
+721,2023-09-25,Beauty,2,50,100,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,True,Returning,10485,3
+722,2023-09-25,Electronics,3,300,900,CUST050,Female,27,Winnipeg,Manitoba,Canada,Fall,False,Returning,10320,14
+723,2023-09-25,Clothing,3,30,90,CUST019,Female,62,Toronto,Ontario,Canada,Fall,True,Returning,7810,7
+724,2023-09-26,Electronics,2,50,100,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,5375,13
+725,2023-09-28,Electronics,1,300,300,CUST019,Female,62,Toronto,Ontario,Canada,Fall,False,Returning,7810,14
+726,2023-09-28,Beauty,1,25,25,CUST046,Female,20,Calgary,Alberta,Canada,Fall,False,Returning,4380,1
+727,2023-09-28,Electronics,2,50,100,CUST016,Male,19,Kitchener,Ontario,Canada,Fall,True,Returning,6045,13
+728,2023-09-29,Clothing,4,500,2000,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Fall,True,Returning,6090,10
+729,2023-09-29,Electronics,4,25,100,CUST047,Female,40,Toronto,Ontario,Canada,Fall,True,Returning,14500,11
+730,2023-09-29,Electronics,1,300,300,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,False,Returning,5060,14
+731,2023-09-29,Electronics,3,50,150,CUST015,Female,42,Thompson,Manitoba,Canada,Fall,True,Returning,8790,13
+732,2023-09-30,Clothing,4,500,2000,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,True,Returning,11190,10
+733,2023-09-30,Clothing,3,300,900,CUST020,Male,22,Laval,Quebec,Canada,Fall,True,Returning,7680,9
+734,2023-10-01,Clothing,1,500,500,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Fall,False,Returning,11980,10
+735,2023-10-01,Electronics,4,500,2000,CUST033,Female,50,Sydney,Nova Scotia,Canada,Fall,True,Returning,20180,15
+736,2023-10-01,Electronics,1,300,300,CUST037,Female,18,Moncton,New Brunswick,Canada,Fall,False,Returning,13210,14
+737,2023-10-02,Beauty,3,25,75,CUST023,Female,35,Victoria,British Columbia,Canada,Fall,True,Returning,11590,1
+738,2023-10-02,Electronics,1,50,50,CUST034,Female,51,Regina,Saskatchewan,Canada,Fall,False,Returning,6665,13
+739,2023-10-02,Clothing,4,30,120,CUST013,Male,22,Montreal,Quebec,Canada,Fall,True,Returning,5740,7
+740,2023-10-02,Beauty,4,25,100,CUST046,Female,20,Calgary,Alberta,Canada,Fall,True,Returning,4380,1
+741,2023-10-02,Electronics,3,300,900,CUST039,Male,23,Kitchener,Ontario,Canada,Fall,True,Returning,7785,14
+742,2023-10-03,Electronics,4,30,120,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,5375,12
+743,2023-10-03,Electronics,3,50,150,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,False,Returning,10485,13
+744,2023-10-03,Clothing,4,25,100,CUST005,Male,30,Hamilton,Ontario,Canada,Fall,True,Returning,8665,6
+745,2023-10-03,Beauty,4,300,1200,CUST039,Male,23,Kitchener,Ontario,Canada,Fall,False,Returning,7785,4
+746,2023-10-03,Beauty,2,300,600,CUST029,Female,42,Brandon,Manitoba,Canada,Fall,False,Returning,9630,4
+747,2023-10-04,Electronics,4,50,200,CUST016,Male,19,Kitchener,Ontario,Canada,Fall,False,Returning,6045,13
+748,2023-10-04,Beauty,2,300,600,CUST033,Female,50,Sydney,Nova Scotia,Canada,Fall,False,Returning,20180,4
+749,2023-10-04,Clothing,4,500,2000,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,11275,10
+750,2023-10-04,Clothing,2,30,60,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,False,Returning,11190,7
+751,2023-10-04,Beauty,3,30,90,CUST047,Female,40,Toronto,Ontario,Canada,Fall,False,Returning,14500,2
+752,2023-10-04,Electronics,2,30,60,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,False,Returning,16805,12
+753,2023-10-05,Clothing,1,500,500,CUST023,Female,35,Victoria,British Columbia,Canada,Fall,False,Returning,11590,10
+754,2023-10-05,Beauty,1,30,30,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Fall,True,Returning,5225,2
+755,2023-10-06,Electronics,3,500,1500,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,False,Returning,16805,15
+756,2023-10-07,Electronics,2,50,100,CUST031,Male,44,Burnaby,British Columbia,Canada,Fall,True,Returning,6385,13
+757,2023-10-07,Electronics,2,500,1000,CUST001,Male,34,Kitchener,Ontario,Canada,Fall,True,Returning,14430,15
+758,2023-10-07,Clothing,4,50,200,CUST007,Male,46,Saint John,New Brunswick,Canada,Fall,False,Returning,4910,8
+759,2023-10-07,Electronics,4,300,1200,CUST044,Female,22,Gatineau,Quebec,Canada,Fall,False,Returning,8150,14
+760,2023-10-08,Electronics,4,500,2000,CUST008,Male,30,Halifax,Nova Scotia,Canada,Fall,True,Returning,8190,15
+761,2023-10-08,Clothing,1,25,25,CUST001,Male,34,Kitchener,Ontario,Canada,Fall,False,Returning,14430,6
+762,2023-10-09,Clothing,4,30,120,CUST022,Male,18,Gatineau,Quebec,Canada,Fall,False,Returning,11785,7
+763,2023-10-09,Electronics,1,25,25,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Fall,False,Returning,9680,11
+764,2023-10-09,Electronics,2,25,50,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,11275,11
+765,2023-10-10,Beauty,2,300,600,CUST031,Male,44,Burnaby,British Columbia,Canada,Fall,True,Returning,6385,4
+766,2023-10-10,Beauty,4,30,120,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,4310,2
+767,2023-10-10,Electronics,4,50,200,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,4310,13
+768,2023-10-10,Beauty,4,300,1200,CUST031,Male,44,Burnaby,British Columbia,Canada,Fall,True,Returning,6385,4
+769,2023-10-11,Electronics,4,50,200,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,True,Returning,5060,13
+770,2023-10-11,Electronics,2,50,100,CUST046,Female,20,Calgary,Alberta,Canada,Fall,True,Returning,4380,13
+771,2023-10-11,Beauty,3,25,75,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Fall,True,Returning,7675,1
+772,2023-10-11,Clothing,3,25,75,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,True,Returning,11190,6
+773,2023-10-11,Beauty,2,500,1000,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,9205,5
+774,2023-10-11,Clothing,1,300,300,CUST010,Female,52,Sydney,Nova Scotia,Canada,Fall,True,Returning,7205,9
+775,2023-10-11,Electronics,1,500,500,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,11275,15
+776,2023-10-12,Beauty,1,25,25,CUST016,Male,19,Kitchener,Ontario,Canada,Fall,True,Returning,6045,1
+777,2023-10-12,Clothing,1,300,300,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,9680,9
+778,2023-10-12,Clothing,3,50,150,CUST046,Female,20,Calgary,Alberta,Canada,Fall,True,Returning,4380,8
+779,2023-10-13,Electronics,4,25,100,CUST023,Female,35,Victoria,British Columbia,Canada,Fall,True,Returning,11590,11
+780,2023-10-13,Beauty,2,500,1000,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,7650,5
+781,2023-10-13,Electronics,3,25,75,CUST036,Male,52,Victoria,British Columbia,Canada,Fall,False,Returning,7135,11
+782,2023-10-14,Electronics,2,30,60,CUST007,Male,46,Saint John,New Brunswick,Canada,Fall,False,Returning,4910,12
+783,2023-10-14,Clothing,1,50,50,CUST012,Male,35,Regina,Saskatchewan,Canada,Fall,False,Returning,6685,8
+784,2023-10-15,Electronics,4,50,200,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,True,Returning,11190,13
+785,2023-10-15,Clothing,2,50,100,CUST040,Male,45,Quebec City,Quebec,Canada,Fall,True,Returning,6800,8
+786,2023-10-15,Electronics,4,300,1200,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,True,Returning,10365,14
+787,2023-10-16,Clothing,4,300,1200,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,True,Returning,10485,9
+788,2023-10-16,Electronics,4,25,100,CUST017,Female,27,Laval,Quebec,Canada,Fall,False,Returning,9755,11
+789,2023-10-16,Electronics,2,30,60,CUST039,Male,23,Kitchener,Ontario,Canada,Fall,True,Returning,7785,12
+790,2023-10-16,Electronics,3,500,1500,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,True,Returning,11190,15
+791,2023-10-17,Beauty,3,25,75,CUST017,Female,27,Laval,Quebec,Canada,Fall,True,Returning,9755,1
+792,2023-10-17,Clothing,4,25,100,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,True,Returning,10365,6
+793,2023-10-18,Beauty,1,25,25,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,False,Returning,16805,1
+794,2023-10-18,Electronics,4,500,2000,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,11275,15
+795,2023-10-19,Beauty,1,300,300,CUST008,Male,30,Halifax,Nova Scotia,Canada,Fall,True,Returning,8190,4
+796,2023-10-19,Clothing,1,300,300,CUST035,Female,58,Victoria,British Columbia,Canada,Fall,True,Returning,16090,9
+797,2023-10-19,Clothing,4,300,1200,CUST030,Female,39,Lethbridge,Alberta,Canada,Fall,True,Returning,12185,9
+798,2023-10-19,Clothing,2,30,60,CUST040,Male,45,Quebec City,Quebec,Canada,Fall,True,Returning,6800,7
+799,2023-10-20,Clothing,1,50,50,CUST044,Female,22,Gatineau,Quebec,Canada,Fall,True,Returning,8150,8
+800,2023-10-21,Electronics,1,50,50,CUST030,Female,39,Lethbridge,Alberta,Canada,Fall,False,Returning,12185,13
+801,2023-10-22,Clothing,3,300,900,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,7650,9
+802,2023-10-22,Beauty,2,500,1000,CUST021,Female,50,Burnaby,British Columbia,Canada,Fall,False,Returning,8475,5
+803,2023-10-22,Clothing,1,50,50,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,4310,8
+804,2023-10-23,Beauty,3,50,150,CUST007,Male,46,Saint John,New Brunswick,Canada,Fall,True,Returning,4910,3
+805,2023-10-23,Beauty,1,500,500,CUST033,Female,50,Sydney,Nova Scotia,Canada,Fall,True,Returning,20180,5
+806,2023-10-23,Beauty,4,25,100,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,9680,1
+807,2023-10-23,Electronics,1,50,50,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,21825,13
+808,2023-10-24,Clothing,4,500,2000,CUST035,Female,58,Victoria,British Columbia,Canada,Fall,False,Returning,16090,10
+809,2023-10-24,Beauty,3,25,75,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,11275,1
+810,2023-10-24,Electronics,2,50,100,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Fall,False,Returning,11980,13
+811,2023-10-24,Clothing,1,25,25,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,False,Returning,11190,6
+812,2023-10-25,Beauty,3,500,1500,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,False,Returning,10365,5
+813,2023-10-25,Beauty,4,500,2000,CUST019,Female,62,Toronto,Ontario,Canada,Fall,True,Returning,7810,5
+814,2023-10-26,Clothing,3,30,90,CUST017,Female,27,Laval,Quebec,Canada,Fall,True,Returning,9755,7
+815,2023-10-26,Beauty,1,50,50,CUST019,Female,62,Toronto,Ontario,Canada,Fall,False,Returning,7810,3
+816,2023-10-26,Clothing,2,300,600,CUST012,Male,35,Regina,Saskatchewan,Canada,Fall,True,Returning,6685,9
+817,2023-10-27,Beauty,3,500,1500,CUST013,Male,22,Montreal,Quebec,Canada,Fall,False,Returning,5740,5
+818,2023-10-27,Electronics,3,50,150,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,False,Returning,16805,13
+819,2023-10-27,Clothing,4,500,2000,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Fall,False,Returning,11980,10
+820,2023-10-29,Beauty,3,300,900,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Fall,True,Returning,6460,4
+821,2023-10-29,Electronics,2,30,60,CUST044,Female,22,Gatineau,Quebec,Canada,Fall,True,Returning,8150,12
+822,2023-10-29,Electronics,2,25,50,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,5375,11
+823,2023-10-29,Beauty,4,25,100,CUST035,Female,58,Victoria,British Columbia,Canada,Fall,False,Returning,16090,1
+824,2023-10-29,Clothing,1,50,50,CUST022,Male,18,Gatineau,Quebec,Canada,Fall,True,Returning,11785,8
+825,2023-10-29,Beauty,3,30,90,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Fall,False,Returning,6090,2
+826,2023-10-30,Beauty,3,25,75,CUST008,Male,30,Halifax,Nova Scotia,Canada,Fall,False,Returning,8190,1
+827,2023-10-31,Beauty,4,50,200,CUST030,Female,39,Lethbridge,Alberta,Canada,Fall,True,Returning,12185,3
+828,2023-10-31,Clothing,3,30,90,CUST031,Male,44,Burnaby,British Columbia,Canada,Fall,True,Returning,6385,7
+829,2023-10-31,Electronics,3,500,1500,CUST040,Male,45,Quebec City,Quebec,Canada,Fall,False,Returning,6800,15
+830,2023-11-01,Clothing,1,300,300,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,False,Returning,5060,9
+831,2023-11-01,Electronics,3,300,900,CUST005,Male,30,Hamilton,Ontario,Canada,Fall,False,Returning,8665,14
+832,2023-11-01,Beauty,4,50,200,CUST024,Female,49,Quebec City,Quebec,Canada,Fall,True,Returning,5180,3
+833,2023-11-01,Electronics,2,25,50,CUST040,Male,45,Quebec City,Quebec,Canada,Fall,True,Returning,6800,11
+834,2023-11-02,Electronics,4,25,100,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,True,Returning,10365,11
+835,2023-11-02,Electronics,1,50,50,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,False,Returning,10365,13
+836,2023-11-02,Clothing,3,25,75,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,False,Returning,10485,6
+837,2023-11-02,Clothing,3,30,90,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,9205,7
+838,2023-11-02,Beauty,2,50,100,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,False,Returning,10365,3
+839,2023-11-02,Electronics,3,500,1500,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,21825,15
+840,2023-11-03,Electronics,4,300,1200,CUST035,Female,58,Victoria,British Columbia,Canada,Fall,True,Returning,16090,14
+841,2023-11-04,Electronics,1,500,500,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,False,Returning,10365,15
+842,2023-11-05,Clothing,3,300,900,CUST005,Male,30,Hamilton,Ontario,Canada,Fall,True,Returning,8665,9
+843,2023-11-05,Clothing,3,300,900,CUST035,Female,58,Victoria,British Columbia,Canada,Fall,True,Returning,16090,9
+844,2023-11-06,Beauty,3,500,1500,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,False,Returning,11190,5
+845,2023-11-06,Clothing,4,300,1200,CUST031,Male,44,Burnaby,British Columbia,Canada,Fall,False,Returning,6385,9
+846,2023-11-07,Beauty,2,30,60,CUST036,Male,52,Victoria,British Columbia,Canada,Fall,True,Returning,7135,2
+847,2023-11-07,Clothing,3,300,900,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,4310,9
+848,2023-11-07,Clothing,1,500,500,CUST017,Female,27,Laval,Quebec,Canada,Fall,False,Returning,9755,10
+849,2023-11-07,Electronics,2,25,50,CUST020,Male,22,Laval,Quebec,Canada,Fall,True,Returning,7680,11
+850,2023-11-07,Clothing,1,25,25,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Fall,False,Returning,7675,6
+851,2023-11-07,Beauty,1,25,25,CUST016,Male,19,Kitchener,Ontario,Canada,Fall,False,Returning,6045,1
+852,2023-11-08,Electronics,4,30,120,CUST001,Male,34,Kitchener,Ontario,Canada,Fall,True,Returning,14430,12
+853,2023-11-08,Beauty,3,30,90,CUST027,Female,38,Kitchener,Ontario,Canada,Fall,True,Returning,4250,2
+854,2023-11-09,Clothing,4,500,2000,CUST044,Female,22,Gatineau,Quebec,Canada,Fall,False,Returning,8150,10
+855,2023-11-09,Beauty,3,300,900,CUST015,Female,42,Thompson,Manitoba,Canada,Fall,True,Returning,8790,4
+856,2023-11-09,Clothing,4,50,200,CUST001,Male,34,Kitchener,Ontario,Canada,Fall,True,Returning,14430,8
+857,2023-11-10,Electronics,1,25,25,CUST005,Male,30,Hamilton,Ontario,Canada,Fall,False,Returning,8665,11
+858,2023-11-10,Electronics,3,30,90,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,21825,12
+859,2023-11-12,Electronics,3,25,75,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,False,Returning,5060,11
+860,2023-11-12,Beauty,3,50,150,CUST019,Female,62,Toronto,Ontario,Canada,Fall,False,Returning,7810,3
+861,2023-11-13,Clothing,1,25,25,CUST033,Female,50,Sydney,Nova Scotia,Canada,Fall,True,Returning,20180,6
+862,2023-11-13,Clothing,4,300,1200,CUST013,Male,22,Montreal,Quebec,Canada,Fall,True,Returning,5740,9
+863,2023-11-14,Clothing,3,300,900,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,21825,9
+864,2023-11-14,Electronics,4,25,100,CUST050,Female,27,Winnipeg,Manitoba,Canada,Fall,True,Returning,10320,11
+865,2023-11-14,Electronics,1,30,30,CUST013,Male,22,Montreal,Quebec,Canada,Fall,False,Returning,5740,12
+866,2023-11-14,Beauty,1,50,50,CUST002,Female,26,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,11275,3
+867,2023-11-15,Beauty,1,30,30,CUST034,Female,51,Regina,Saskatchewan,Canada,Fall,False,Returning,6665,2
+868,2023-11-15,Electronics,3,500,1500,CUST016,Male,19,Kitchener,Ontario,Canada,Fall,False,Returning,6045,15
+869,2023-11-15,Electronics,4,25,100,CUST013,Male,22,Montreal,Quebec,Canada,Fall,True,Returning,5740,11
+870,2023-11-16,Electronics,3,500,1500,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Fall,True,Returning,7675,15
+871,2023-11-17,Beauty,3,30,90,CUST030,Female,39,Lethbridge,Alberta,Canada,Fall,True,Returning,12185,2
+872,2023-11-17,Electronics,4,30,120,CUST020,Male,22,Laval,Quebec,Canada,Fall,True,Returning,7680,12
+873,2023-11-17,Clothing,3,300,900,CUST017,Female,27,Laval,Quebec,Canada,Fall,True,Returning,9755,9
+874,2023-11-17,Beauty,3,500,1500,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,True,Returning,10485,5
+875,2023-11-18,Beauty,1,30,30,CUST036,Male,52,Victoria,British Columbia,Canada,Fall,False,Returning,7135,2
+876,2023-11-18,Beauty,2,500,1000,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,False,Returning,5060,5
+877,2023-11-18,Beauty,4,25,100,CUST016,Male,19,Kitchener,Ontario,Canada,Fall,True,Returning,6045,1
+878,2023-11-19,Clothing,4,50,200,CUST020,Male,22,Laval,Quebec,Canada,Fall,False,Returning,7680,8
+879,2023-11-19,Beauty,2,50,100,CUST047,Female,40,Toronto,Ontario,Canada,Fall,True,Returning,14500,3
+880,2023-11-20,Electronics,2,25,50,CUST027,Female,38,Kitchener,Ontario,Canada,Fall,False,Returning,4250,11
+881,2023-11-21,Clothing,2,50,100,CUST005,Male,30,Hamilton,Ontario,Canada,Fall,True,Returning,8665,8
+882,2023-11-21,Beauty,2,30,60,CUST020,Male,22,Laval,Quebec,Canada,Fall,True,Returning,7680,2
+883,2023-11-21,Electronics,3,300,900,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,False,Returning,16805,14
+884,2023-11-22,Beauty,4,500,2000,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,21825,5
+885,2023-11-22,Beauty,2,50,100,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,True,Returning,5060,3
+886,2023-11-22,Clothing,4,25,100,CUST012,Male,35,Regina,Saskatchewan,Canada,Fall,False,Returning,6685,6
+887,2023-11-23,Beauty,4,300,1200,CUST050,Female,27,Winnipeg,Manitoba,Canada,Fall,False,Returning,10320,4
+888,2023-11-23,Electronics,1,300,300,CUST027,Female,38,Kitchener,Ontario,Canada,Fall,True,Returning,4250,14
+889,2023-11-23,Electronics,3,30,90,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Fall,False,Returning,11980,12
+890,2023-11-24,Beauty,3,50,150,CUST008,Male,30,Halifax,Nova Scotia,Canada,Fall,True,Returning,8190,3
+891,2023-11-24,Clothing,2,30,60,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,False,Returning,11190,7
+892,2023-11-24,Clothing,3,300,900,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,False,Returning,16805,9
+893,2023-11-25,Clothing,4,25,100,CUST040,Male,45,Quebec City,Quebec,Canada,Fall,True,Returning,6800,6
+894,2023-11-25,Beauty,2,25,50,CUST020,Male,22,Laval,Quebec,Canada,Fall,True,Returning,7680,1
+895,2023-11-26,Beauty,4,25,100,CUST008,Male,30,Halifax,Nova Scotia,Canada,Fall,False,Returning,8190,1
+896,2023-11-26,Clothing,3,500,1500,CUST033,Female,50,Sydney,Nova Scotia,Canada,Fall,True,Returning,20180,10
+897,2023-11-27,Clothing,1,25,25,CUST034,Female,51,Regina,Saskatchewan,Canada,Fall,False,Returning,6665,6
+898,2023-11-27,Beauty,3,30,90,CUST023,Female,35,Victoria,British Columbia,Canada,Fall,False,Returning,11590,2
+899,2023-11-27,Electronics,4,30,120,CUST039,Male,23,Kitchener,Ontario,Canada,Fall,True,Returning,7785,12
+900,2023-11-28,Electronics,3,30,90,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,5375,12
+901,2023-11-28,Electronics,1,300,300,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,21825,14
+902,2023-11-29,Beauty,1,25,25,CUST034,Female,51,Regina,Saskatchewan,Canada,Fall,True,Returning,6665,1
+903,2023-11-29,Clothing,3,500,1500,CUST021,Female,50,Burnaby,British Columbia,Canada,Fall,True,Returning,8475,10
+904,2023-11-29,Clothing,1,300,300,CUST027,Female,38,Kitchener,Ontario,Canada,Fall,True,Returning,4250,9
+905,2023-11-30,Electronics,2,30,60,CUST040,Male,45,Quebec City,Quebec,Canada,Fall,False,Returning,6800,12
+906,2023-11-30,Clothing,1,300,300,CUST050,Female,27,Winnipeg,Manitoba,Canada,Fall,True,Returning,10320,9
+907,2023-11-30,Electronics,4,25,100,CUST045,Female,55,Montreal,Quebec,Canada,Fall,True,Returning,10525,11
+908,2023-12-01,Electronics,2,30,60,CUST032,Male,30,Moncton,New Brunswick,Canada,Fall,True,Returning,11190,12
+909,2023-12-01,Clothing,2,25,50,CUST012,Male,35,Regina,Saskatchewan,Canada,Fall,True,Returning,6685,6
+910,2023-12-02,Clothing,3,500,1500,CUST023,Female,35,Victoria,British Columbia,Canada,Fall,False,Returning,11590,10
+911,2023-12-02,Electronics,3,500,1500,CUST020,Male,22,Laval,Quebec,Canada,Fall,True,Returning,7680,15
+912,2023-12-02,Clothing,1,30,30,CUST006,Female,45,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,5375,7
+913,2023-12-03,Electronics,2,300,600,CUST030,Female,39,Lethbridge,Alberta,Canada,Fall,False,Returning,12185,14
+914,2023-12-04,Beauty,3,50,150,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Fall,True,Returning,10365,3
+915,2023-12-04,Clothing,1,50,50,CUST024,Female,49,Quebec City,Quebec,Canada,Fall,True,Returning,5180,8
+916,2023-12-04,Electronics,1,30,30,CUST013,Male,22,Montreal,Quebec,Canada,Fall,True,Returning,5740,12
+917,2023-12-04,Beauty,3,500,1500,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,9680,5
+918,2023-12-05,Beauty,4,25,100,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Fall,True,Returning,6460,1
+919,2023-12-05,Electronics,3,50,150,CUST021,Female,50,Burnaby,British Columbia,Canada,Fall,False,Returning,8475,13
+920,2023-12-05,Electronics,4,500,2000,CUST045,Female,55,Montreal,Quebec,Canada,Fall,True,Returning,10525,15
+921,2023-12-05,Electronics,4,50,200,CUST015,Female,42,Thompson,Manitoba,Canada,Fall,False,Returning,8790,13
+922,2023-12-05,Beauty,1,25,25,CUST019,Female,62,Toronto,Ontario,Canada,Fall,True,Returning,7810,1
+923,2023-12-06,Electronics,1,300,300,CUST010,Female,52,Sydney,Nova Scotia,Canada,Fall,False,Returning,7205,14
+924,2023-12-06,Beauty,3,30,90,CUST012,Male,35,Regina,Saskatchewan,Canada,Fall,False,Returning,6685,2
+925,2023-12-06,Clothing,3,500,1500,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,21825,10
+926,2023-12-06,Electronics,2,500,1000,CUST039,Male,23,Kitchener,Ontario,Canada,Fall,True,Returning,7785,15
+927,2023-12-06,Beauty,2,25,50,CUST034,Female,51,Regina,Saskatchewan,Canada,Fall,False,Returning,6665,1
+928,2023-12-07,Electronics,1,500,500,CUST043,Female,48,Mount Pearl,Newfoundland and Labrador,Canada,Fall,True,Returning,4310,15
+929,2023-12-07,Clothing,3,300,900,CUST005,Male,30,Hamilton,Ontario,Canada,Fall,True,Returning,8665,9
+930,2023-12-08,Clothing,2,500,1000,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,False,Returning,10485,10
+931,2023-12-08,Clothing,1,300,300,CUST008,Male,30,Halifax,Nova Scotia,Canada,Fall,False,Returning,8190,9
+932,2023-12-08,Clothing,2,300,600,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,True,Returning,10485,9
+933,2023-12-08,Electronics,3,300,900,CUST038,Male,38,Summerside,Prince Edward Island,Canada,Fall,False,Returning,6090,14
+934,2023-12-09,Electronics,1,25,25,CUST009,Male,63,Burnaby,British Columbia,Canada,Fall,True,Returning,5060,11
+935,2023-12-09,Electronics,1,500,500,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,False,Returning,10485,15
+936,2023-12-09,Electronics,4,300,1200,CUST047,Female,40,Toronto,Ontario,Canada,Fall,True,Returning,14500,14
+937,2023-12-09,Beauty,2,50,100,CUST019,Female,62,Toronto,Ontario,Canada,Fall,False,Returning,7810,3
+938,2023-12-09,Clothing,2,50,100,CUST030,Female,39,Lethbridge,Alberta,Canada,Fall,True,Returning,12185,8
+939,2023-12-09,Electronics,4,500,2000,CUST021,Female,50,Burnaby,British Columbia,Canada,Fall,True,Returning,8475,15
+940,2023-12-10,Clothing,2,30,60,CUST013,Male,22,Montreal,Quebec,Canada,Fall,True,Returning,5740,7
+941,2023-12-10,Beauty,2,30,60,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Fall,True,Returning,6460,2
+942,2023-12-10,Electronics,4,300,1200,CUST047,Female,40,Toronto,Ontario,Canada,Fall,False,Returning,14500,14
+943,2023-12-10,Clothing,2,50,100,CUST031,Male,44,Burnaby,British Columbia,Canada,Fall,False,Returning,6385,8
+944,2023-12-11,Electronics,1,50,50,CUST001,Male,34,Kitchener,Ontario,Canada,Fall,True,Returning,14430,13
+945,2023-12-11,Clothing,3,300,900,CUST021,Female,50,Burnaby,British Columbia,Canada,Fall,False,Returning,8475,9
+946,2023-12-12,Beauty,3,50,150,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Fall,False,Returning,11980,3
+947,2023-12-12,Electronics,1,50,50,CUST027,Female,38,Kitchener,Ontario,Canada,Fall,True,Returning,4250,13
+948,2023-12-13,Electronics,2,25,50,CUST048,Male,54,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,9205,11
+949,2023-12-13,Electronics,2,300,600,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,21825,14
+950,2023-12-13,Electronics,3,25,75,CUST037,Female,18,Moncton,New Brunswick,Canada,Fall,False,Returning,13210,11
+951,2023-12-14,Beauty,2,30,60,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Fall,True,Returning,6460,2
+952,2023-12-14,Clothing,2,300,600,CUST022,Male,18,Gatineau,Quebec,Canada,Fall,True,Returning,11785,9
+953,2023-12-15,Beauty,4,500,2000,CUST016,Male,19,Kitchener,Ontario,Canada,Fall,False,Returning,6045,5
+954,2023-12-15,Clothing,1,50,50,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,7650,8
+955,2023-12-16,Electronics,2,50,100,CUST039,Male,23,Kitchener,Ontario,Canada,Fall,False,Returning,7785,13
+956,2023-12-16,Electronics,2,500,1000,CUST040,Male,45,Quebec City,Quebec,Canada,Fall,False,Returning,6800,15
+957,2023-12-16,Electronics,1,30,30,CUST026,Female,28,Saint John,New Brunswick,Canada,Fall,False,Returning,10485,12
+958,2023-12-17,Clothing,1,300,300,CUST025,Female,64,Mount Pearl,Newfoundland and Labrador,Canada,Fall,False,Returning,9680,9
+959,2023-12-17,Electronics,4,300,1200,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,True,Returning,16805,14
+960,2023-12-18,Beauty,2,25,50,CUST014,Male,64,Moose Jaw,Saskatchewan,Canada,Fall,False,Returning,6460,1
+961,2023-12-18,Beauty,2,500,1000,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,7650,5
+962,2023-12-18,Electronics,3,300,900,CUST001,Male,34,Kitchener,Ontario,Canada,Fall,True,Returning,14430,14
+963,2023-12-18,Electronics,1,300,300,CUST049,Female,54,Summerside,Prince Edward Island,Canada,Fall,True,Returning,16805,14
+964,2023-12-19,Clothing,2,300,600,CUST024,Female,49,Quebec City,Quebec,Canada,Fall,True,Returning,5180,9
+965,2023-12-19,Beauty,3,30,90,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Fall,False,Returning,5225,2
+966,2023-12-19,Clothing,2,50,100,CUST018,Female,47,Corner Brook,Newfoundland and Labrador,Canada,Fall,True,Returning,7675,8
+967,2023-12-20,Electronics,3,50,150,CUST011,Male,23,St. John's,Newfoundland and Labrador,Canada,Fall,False,Returning,5225,13
+968,2023-12-20,Electronics,4,50,200,CUST041,Male,34,Charlottetown,Prince Edward Island,Canada,Fall,False,Returning,7650,13
+969,2023-12-20,Electronics,2,25,50,CUST045,Female,55,Montreal,Quebec,Canada,Fall,True,Returning,10525,11
+970,2023-12-20,Beauty,3,300,900,CUST010,Female,52,Sydney,Nova Scotia,Canada,Fall,False,Returning,7205,4
+971,2023-12-20,Clothing,1,50,50,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Fall,True,Returning,21825,8
+972,2023-12-21,Clothing,1,300,300,CUST020,Male,22,Laval,Quebec,Canada,Winter,False,Returning,7680,9
+973,2023-12-22,Beauty,2,500,1000,CUST045,Female,55,Montreal,Quebec,Canada,Winter,True,Returning,10525,5
+974,2023-12-23,Electronics,3,300,900,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,False,Returning,20180,14
+975,2023-12-23,Clothing,4,25,100,CUST031,Male,44,Burnaby,British Columbia,Canada,Winter,False,Returning,6385,6
+976,2023-12-23,Electronics,1,300,300,CUST021,Female,50,Burnaby,British Columbia,Canada,Winter,False,Returning,8475,14
+977,2023-12-23,Electronics,1,25,25,CUST040,Male,45,Quebec City,Quebec,Canada,Winter,True,Returning,6800,11
+978,2023-12-23,Beauty,1,500,500,CUST040,Male,45,Quebec City,Quebec,Canada,Winter,True,Returning,6800,5
+979,2023-12-23,Beauty,1,25,25,CUST046,Female,20,Calgary,Alberta,Canada,Winter,True,Returning,4380,1
+980,2023-12-24,Clothing,3,50,150,CUST026,Female,28,Saint John,New Brunswick,Canada,Winter,True,Returning,10485,8
+981,2023-12-24,Electronics,1,50,50,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Winter,False,Returning,21825,13
+982,2023-12-25,Electronics,4,300,1200,CUST004,Male,37,Moose Jaw,Saskatchewan,Canada,Winter,False,Returning,11980,14
+983,2023-12-26,Beauty,4,50,200,CUST003,Male,50,Corner Brook,Newfoundland and Labrador,Canada,Winter,True,Returning,10365,3
+984,2023-12-26,Beauty,1,50,50,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,Returning,16090,3
+985,2023-12-26,Clothing,2,300,600,CUST047,Female,40,Toronto,Ontario,Canada,Winter,True,Returning,14500,9
+986,2023-12-26,Beauty,3,300,900,CUST035,Female,58,Victoria,British Columbia,Canada,Winter,True,Returning,16090,4
+987,2023-12-26,Clothing,2,50,100,CUST029,Female,42,Brandon,Manitoba,Canada,Winter,False,Returning,9630,8
+988,2023-12-26,Clothing,1,30,30,CUST008,Male,30,Halifax,Nova Scotia,Canada,Winter,False,Returning,8190,7
+989,2023-12-27,Beauty,2,50,100,CUST028,Female,43,Charlottetown,Prince Edward Island,Canada,Winter,True,Returning,21825,3
+990,2023-12-27,Electronics,2,300,600,CUST030,Female,39,Lethbridge,Alberta,Canada,Winter,False,Returning,12185,14
+991,2023-12-28,Electronics,1,25,25,CUST040,Male,45,Quebec City,Quebec,Canada,Winter,True,Returning,6800,11
+992,2023-12-28,Clothing,4,500,2000,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,False,Returning,20180,10
+993,2023-12-28,Electronics,2,25,50,CUST037,Female,18,Moncton,New Brunswick,Canada,Winter,False,Returning,13210,11
+994,2023-12-29,Beauty,4,300,1200,CUST040,Male,45,Quebec City,Quebec,Canada,Winter,False,Returning,6800,4
+995,2023-12-29,Electronics,4,25,100,CUST016,Male,19,Kitchener,Ontario,Canada,Winter,False,Returning,6045,11
+996,2023-12-29,Beauty,2,300,600,CUST027,Female,38,Kitchener,Ontario,Canada,Winter,True,Returning,4250,4
+997,2023-12-29,Beauty,3,500,1500,CUST046,Female,20,Calgary,Alberta,Canada,Winter,False,Returning,4380,5
+998,2023-12-31,Electronics,2,25,50,CUST017,Female,27,Laval,Quebec,Canada,Winter,True,Returning,9755,11
+999,2024-01-01,Beauty,3,500,1500,CUST033,Female,50,Sydney,Nova Scotia,Canada,Winter,False,Returning,20180,5
+1000,2024-01-01,Electronics,1,30,30,CUST013,Male,22,Montreal,Quebec,Canada,Winter,True,Returning,5740,12
