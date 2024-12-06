@@ -1,4 +1,4 @@
-# 🌟 SARIMA Model for Time Series Forecasting
+# 🌟 SARIMA Model for Time Series Forecasting (Implemented by Srujana Gunde)
 
 ## Overview
 This repository contains a Python script that demonstrates the use of SARIMA for forecasting time series data. The script performs model selection, trains the best model, and evaluates its performance. 🧰
