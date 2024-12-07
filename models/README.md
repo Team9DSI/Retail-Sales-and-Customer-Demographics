@@ -7,10 +7,10 @@ Here’s an overview of the machine learning models and analytical operations co
 ## Index of Jupyter Notebooks
 
 - [Recommendation System for Retail Products](ProductRecomendation.ipynb)
-- [How Does the Purchasing Behaviour of New Customers Differ from That of Returning Customers?](new_vs_returning-2.ipynb)
+- [Understanding the Purchasing Behavior of New vs. Returning Customers](new_vs_returning-2.ipynb)
 - [SARIMA Model for Time Series Forecasting](sarima.ipynb)............[Read More](SARIMA_README.md) 
 - [Customer Segmentation Using KMeans Clustering Based on RFM Metrics](RFM%20Metrics.ipynb)
-- [Are Certain Product Categories More Popular with Specific Genders?](product_categories_vs_gender.ipynb)
+- [Using Clustering to Analyze Gender and Product Preferences in Retail](product_categories_vs_gender.ipynb)
 - [Linear Regression Analysis](simple_linear_regression.ipynb)
 - [Predicting Customer Lifetime Value (CLV) for Retailers](CLV.ipynb)
 
