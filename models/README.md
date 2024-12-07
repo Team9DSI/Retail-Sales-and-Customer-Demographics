@@ -14,4 +14,8 @@ Here’s an overview of the machine learning models and analytical operations co
 - [Linear Regression Analysis](simple_linear_regression.ipynb)
 - [Predicting Customer Lifetime Value (CLV) for Retailers](CLV.ipynb)
 
+## Resources
+- [Exploratory Data Analysis](https://github.com/Team9DSI/Retail-Sales-and-Customer-Demographics/blob/main/data/processed/EDA_Srujana.ipynb)
+- [Data Processing](https://github.com/Team9DSI/Retail-Sales-and-Customer-Demographics/blob/main/data/DataProcessing.ipynb)
+  
 These analyses cover a range of topics, including product recommendations, purchasing patterns, customer segmentation, and forecasting, all of which aim to provide actionable insights for improving retail business strategies and customer experience.
