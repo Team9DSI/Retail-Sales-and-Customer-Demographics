@@ -1,40 +1,17 @@
-#                                               🌟 SARIMA Model for Time Series Forecasting 
+# Unlocking Retail Potential: Data Analysis and Machine Learning Insights
 
+This analysis explores various aspects of a retail dataset that contains key information about customer transactions, including details like the transaction ID, date, product category, quantities, and customer demographics. The goal is to extract valuable insights that can drive decisions in product recommendations, marketing strategies, and customer retention efforts.
 
-## Overview
-This repository contains a Python script that demonstrates the use of SARIMA for forecasting time series data. The script performs model selection, trains the best model, and evaluates its performance. 🧰
+Here’s an overview of the machine learning models and analytical operations conducted on this dataset:
 
-## Key Components
-### Data Preparation:
-- The dataset is loaded, cleaned, and features are engineered. 📊
-- Missing values are handled, and categorical variables are converted into numerical using one-hot encoding. 🔄
-- Added Canadian holidays and seasons to see how sales get influenced by holidays. 🎉
-- Seasonal patterns like month, quarter, day of week, and holiday status are included as features. 
+## Index of Jupyter Notebooks
 
-### Model Evaluation:
-- A function `evaluate_sarima` is used to test different SARIMA configurations. 📉
-- Metrics like **MASE**, **RMSE**, **MAE**, and **R-squared** are calculated for each model configuration. ✅
+- [Recommendation System for Retail Products](Recommendation%20System%20for%20Retail%20ProductRecomendation.ipynb)
+- [How Does the Purchasing Behaviour of New Customers Differ from That of Returning Customers?](new_vs_returning-2.ipynb)
+- [SARIMA Model for Time Series Forecasting](sarima.ipynb)............[Read More](SARIMA_README.md) 
+- [Customer Segmentation Using KMeans Clustering Based on RFM Metrics](RFM%20Metrics.ipynb)
+- [Are Certain Product Categories More Popular with Specific Genders?](product_categories_vs_gender.ipynb)
+- [Linear Regression Analysis](simple_linear_regression.ipynb)
+- [Predicting Customer Lifetime Value (CLV) for Retailers](CLV.ipynb)
 
-### Best Model Selection:
-- A grid search approach is used to find the best model parameters. 🔍
-- The best model is chosen based on the lowest MASE value **(0.61)** 🏆
-
-### Forecasting:
-- The best SARIMA model is fitted and used to forecast future values. 📅
-- The forecasts are compared with actual test data to evaluate the model’s accuracy. 🎯
-
-### Visualization:
-- Results are visualized using **Matplotlib**, including the training data, test data, and forecasted values with confidence intervals. 📉📈
-
-## Future Recommendations
-To further enhance model accuracy:
-- Test alternative models like ARIMA, ETS, and Prophet for different pattern capture. 🔍
-- Use ensemble methods such as stacking or averaging predictions from multiple models. 🤖
-- Explore neural networks like LSTM or GRU to capture complex relationships. 🧠
-- Experiment with different feature sets and combinations to better model the data. ⚙️
-- Regularly tune model parameters and validate using cross-validation to avoid overfitting. ⏳
-
-## Conclusion
-By implementing these recommendations, you can improve the accuracy and reliability of your time series forecasting models. The script provided offers a foundation to build upon and further customize based on specific requirements. 🚀
-
-(Implemented by Srujana Gunde)
+These analyses cover a range of topics, including product recommendations, purchasing patterns, customer segmentation, and forecasting, all of which aim to provide actionable insights for improving retail business strategies and customer experience.
