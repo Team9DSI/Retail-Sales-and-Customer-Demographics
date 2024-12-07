@@ -8,6 +8,15 @@ In today’s competitive retail landscape, understanding customer behavior and s
 
 By analyzing transaction data, customer profiles, and geographical information, we aim to uncover actionable insights that can inform marketing strategies, optimize inventory management, and enhance customer experience.
 
+---
+
+**Checkout a Live Interactive Implementation of an MVP, on our Website** [**`https://www.team9.ca`**](https://team9.ca)
+
+- Our interactive website showcases models we've built as part of our data science and machine learning projects. Explore hands-on tools that demonstrate how machine learning solves real-world challenges, from predicting sales trends to understanding customer behavior.
+
+---
+
+
 ### Key Objectives
 
 - **Purchasing Behavior Analysis**: Understand how new customers differ in purchasing behavior from returning customers, identifying trends and customer preferences.
@@ -15,7 +24,7 @@ By analyzing transaction data, customer profiles, and geographical information, 
 - **Product Recommendation System**: Develop a product recommendation system using K-Nearest Neighbors (K-NN) to enhance cross-selling and upselling opportunities.
 - **Sales Forecasting**: Build time series models to predict future sales, helping retailers prepare for demand fluctuations.
 - **Customer Lifetime Value (CLV) Prediction**: Predict the total value a customer will generate over their lifetime to identify high-value customers and tailor retention strategies.
-- **Behavioral Insights**: Analyze how factors such as age, gender, and geographical location influence product preferences, transaction size, and purchase frequency.
+- **Behavioral Insights**: Analyze how factors such as age and gender influence product preferences, transaction size, and purchase frequency.
 
 By leveraging these insights, retailers can make data-driven decisions to improve customer acquisition, retention, and revenue generation, resulting in a more personalized and efficient retail experience.
 Join us on this journey to transform raw data into meaningful strategies for success in the retail sector!
@@ -44,16 +53,8 @@ The dataset contains the following columns:
 - **Quantity**: Number of units purchased.
 - **Price per Unit**: Price of one unit of the product.
 - **Total Amount**: Total monetary value of the transaction.
-- **Geographical Information**: (To be added)
+- **Geographical Information**: City, Province, Country
 
-### Potential Data Enhancements
-
-Additional features and modifications to the dataset will be implemented to address specific business questions, including:
-
-- **Customer Demographics**: Age, gender, location (city, province, region) to help segment and understand customer preferences.
-- **Product Preferences**: Linking product categories to demographic data to uncover preferences for specific groups.
-- **Transaction History**: Incorporating past transactions to predict customer behavior, such as whether a customer will make repeat purchases.
-- **Price Sensitivity**: Adding a column to analyze how price changes impact customer purchasing behavior within product categories.
 
 ## Technologies Used
 
@@ -63,7 +64,6 @@ Additional features and modifications to the dataset will be implemented to addr
 - **Scikit-learn**: Machine learning library for modeling and prediction.
 - **Matplotlib / Seaborn**: Data visualization tools to create graphs and charts.
 - **Jupyter Notebook / JupyterLab**: Interactive development environment for analysis and visualization.
-- **Power BI**: Business intelligence tool for dashboard creation and visual analysis.
 
 ## Analysis and Predictions
 
@@ -75,35 +75,17 @@ Additional features and modifications to the dataset will be implemented to addr
 - **Are certain product categories more popular with specific genders?**  
   By segmenting customers by gender, we can identify which product categories are more frequently purchased by men or women.
 
-- **Which product categories contribute the most to overall revenue?**  
-  We will identify top-selling product categories based on total revenue and explore how different demographic groups impact these sales.
-
-- **How does the average transaction amount differ by gender across various product categories?**  
-  Gender-based comparisons will be made to identify trends in purchasing behavior, including average transaction values in different product categories.
-
 - **Can we predict the quantity of items a customer will purchase in a single transaction based on their demographics and previous transaction history?**  
   Using regression models, we will predict the quantity of items a customer will likely purchase, factoring in their demographics and historical purchases.
 
-- **Can we classify whether a customer will make repeat purchases based on their demographics and transaction history?**  
-  A classification model will be used to predict whether a customer is likely to make repeat purchases, enabling proactive engagement strategies.
-
-- **How frequently do customers make purchases, and does transaction size impact the frequency?**  
-  By examining purchase frequency and transaction sizes, we will uncover insights into customer behavior and spending habits.
-
-- **Do customers tend to purchase from multiple categories in the same transaction?**  
-  Market basket analysis will be used to identify patterns in customers buying products from multiple categories in a single transaction.
-
-- **How sensitive are customers to changes in price within specific product categories?**  
-  Price sensitivity analysis will be performed to understand how price fluctuations influence customer purchase decisions across different categories.
-
-- **Is there any relationship between the categories purchased and the total amount spent?**  
-  We will explore correlations between product categories purchased and total transaction amounts to uncover key purchasing patterns.
+- **Is there any relationship between the categories purchased, gender and the total amount spent?**  
+  We will explore correlations between product categories purchased, gender and total transaction amounts to uncover key purchasing patterns.
 
 ### Predictive Modeling
 
-- **Sales Forecasting**: Time series analysis (e.g., ARIMA, Prophet) will be used to forecast future sales based on historical trends.
-- **Customer Segmentation**: Clustering algorithms (e.g., K-Means) will be used to group customers based on their purchasing behavior, enabling targeted marketing campaigns.
-- **Recommendation System**: K-Nearest Neighbors (K-NN) will be used to build a product recommendation system that suggests products based on customer purchase history and preferences.
+- **Sales Forecasting**: Time series analysis (e.g., SARIMA) will be used to forecast future sales based on historical trends.
+- **Customer Segmentation**: Clustering algorithms (e.g., K-Means, Hierarchical Clustering) will be used to group customers based on their purchasing behavior, enabling targeted marketing campaigns.
+- **Recommendation System**: Deeplearning Models & Techniques will be used to build a product recommendation system that suggests products based on customer purchase history and preferences.
 - **Customer Lifetime Value (CLV)**: Regression and classification techniques will be used to predict the CLV of customers, helping identify high-value customers.
 
 ## Data Preparation
