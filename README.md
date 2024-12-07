@@ -110,10 +110,10 @@ The dataset contains the following columns:
 
 ## Video Links
 
-- Charles Colaco
-- Mark Conrad Maramag
-- Srujana Gunde
-- 
+- [Charles Colaco](https://team9.ca)
+- [Mark Conrad Maramag](https://team9.ca)
+- [Srujana Gunde](https://team9.ca)
+  
 ## Conclusion
 
 This project aims to transform raw retail sales and customer demographic data into actionable business insights. By employing machine learning techniques, we will not only uncover trends in customer behavior but also build predictive models that can forecast sales, recommend products, and predict customer lifetime value. The insights generated will assist retailers in optimizing their marketing, inventory, and sales strategies, ultimately improving customer satisfaction and driving growth.
