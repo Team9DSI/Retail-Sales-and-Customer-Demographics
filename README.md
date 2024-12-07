@@ -88,6 +88,7 @@ The dataset contains the following columns:
 
 - **Sales Forecasting**: Time series analysis (e.g., SARIMA) will be used to forecast future sales based on historical trends.
 - **Customer Segmentation**: Clustering algorithms (e.g., K-Means, Hierarchical Clustering) will be used to group customers based on their purchasing behavior, enabling targeted marketing campaigns.
+- **Purchasing Behaviour Analysis**: Random Forest model will be used to explore differences in purchasing behaviour between new and returning customers, focusing on trends, spending, and discounts.
 - **Recommendation System**: Deeplearning Models & Techniques will be used to build a product recommendation system that suggests products based on customer purchase history and preferences.
 - **Customer Lifetime Value (CLV)**: Regression and classification techniques will be used to predict the CLV of customers, helping identify high-value customers.
 
