@@ -66,7 +66,7 @@ The dataset contains the following columns:
 - **NumPy**: Numerical operations and matrix manipulations.
 - **Scikit-learn**: Machine learning library for modeling and prediction.
 - **Matplotlib / Seaborn**: Data visualization tools to create graphs and charts.
-- **Keras**
+- **Keras** : Library for Deep Learning.
 - **Jupyter Notebook / JupyterLab**: Interactive development environment for analysis and visualization.
 
 ## Analysis and Predictions
