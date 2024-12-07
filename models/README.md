@@ -6,7 +6,7 @@ Here’s an overview of the machine learning models and analytical operations co
 
 ## Index of Jupyter Notebooks
 
-- [Recommendation System for Retail Products](Recommendation%20System%20for%20Retail%20ProductRecomendation.ipynb)
+- [Recommendation System for Retail Products](ProductRecomendation.ipynb)
 - [How Does the Purchasing Behaviour of New Customers Differ from That of Returning Customers?](new_vs_returning-2.ipynb)
 - [SARIMA Model for Time Series Forecasting](sarima.ipynb)............[Read More](SARIMA_README.md) 
 - [Customer Segmentation Using KMeans Clustering Based on RFM Metrics](RFM%20Metrics.ipynb)
