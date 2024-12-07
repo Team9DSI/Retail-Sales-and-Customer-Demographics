@@ -35,10 +35,13 @@ Join us on this journey to transform raw data into meaningful strategies for suc
 
 ## Table of Contents
 
+- [Implementation](https://github.com/Team9DSI/Retail-Sales-and-Customer-Demographics/blob/main/models/README.md)  (**Explore our Jupyter Notebooksto Dive deeper into our Machine Learning Projects**)
 - [Dataset Description](#dataset-description)
 - [Technologies Used](#technologies-used)
 - [Analysis and Predictions](#analysis-and-predictions)
 - [Data Preparation](#data-preparation)
+- [Video Links](#video-links)
+
 
 ## Dataset Description
 
@@ -105,6 +108,12 @@ The dataset contains the following columns:
   - Normalize numerical variables for consistent scaling across features.
   - Encode categorical variables (e.g., gender, product category) using techniques like one-hot encoding or label encoding.
 
+## Video Links
+
+- Charles Colaco
+- Mark Conrad Maramag
+- Srujana Gunde
+- 
 ## Conclusion
 
 This project aims to transform raw retail sales and customer demographic data into actionable business insights. By employing machine learning techniques, we will not only uncover trends in customer behavior but also build predictive models that can forecast sales, recommend products, and predict customer lifetime value. The insights generated will assist retailers in optimizing their marketing, inventory, and sales strategies, ultimately improving customer satisfaction and driving growth.
