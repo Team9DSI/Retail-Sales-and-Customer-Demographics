@@ -10,7 +10,7 @@ By analyzing transaction data, customer profiles, and geographical information, 
 
 ---
 
-🌐 [**`https://www.team9.ca`**](https://team9.ca) **Checkout a Live Interactive Implementation of an MVP, on our Website**
+🌐 [**`https://www.team9.ca`**](https://team9.ca) **Explore a live, interactive MVP demo on our website!**
 
 - Our interactive website showcases models we've built as part of our data science and machine learning projects. Explore hands-on tools that demonstrate how machine learning solves real-world challenges, from predicting sales trends to understanding customer behavior.
 
